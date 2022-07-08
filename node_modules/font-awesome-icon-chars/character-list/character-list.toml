@@ -1,0 +1,6403 @@
+[[solid]]
+name = "ad"
+unicode = "f641"
+
+[[solid]]
+name = "address-book"
+unicode = "f2b9"
+
+[[solid]]
+name = "address-card"
+unicode = "f2bb"
+
+[[solid]]
+name = "adjust"
+unicode = "f042"
+
+[[solid]]
+name = "air-freshener"
+unicode = "f5d0"
+
+[[solid]]
+name = "align-center"
+unicode = "f037"
+
+[[solid]]
+name = "align-justify"
+unicode = "f039"
+
+[[solid]]
+name = "align-left"
+unicode = "f036"
+
+[[solid]]
+name = "align-right"
+unicode = "f038"
+
+[[solid]]
+name = "allergies"
+unicode = "f461"
+
+[[solid]]
+name = "ambulance"
+unicode = "f0f9"
+
+[[solid]]
+name = "american-sign-language-interpreting"
+unicode = "f2a3"
+
+[[solid]]
+name = "anchor"
+unicode = "f13d"
+
+[[solid]]
+name = "angle-double-down"
+unicode = "f103"
+
+[[solid]]
+name = "angle-double-left"
+unicode = "f100"
+
+[[solid]]
+name = "angle-double-right"
+unicode = "f101"
+
+[[solid]]
+name = "angle-double-up"
+unicode = "f102"
+
+[[solid]]
+name = "angle-down"
+unicode = "f107"
+
+[[solid]]
+name = "angle-left"
+unicode = "f104"
+
+[[solid]]
+name = "angle-right"
+unicode = "f105"
+
+[[solid]]
+name = "angle-up"
+unicode = "f106"
+
+[[solid]]
+name = "angry"
+unicode = "f556"
+
+[[solid]]
+name = "ankh"
+unicode = "f644"
+
+[[solid]]
+name = "apple-alt"
+unicode = "f5d1"
+
+[[solid]]
+name = "archive"
+unicode = "f187"
+
+[[solid]]
+name = "archway"
+unicode = "f557"
+
+[[solid]]
+name = "arrow-alt-circle-down"
+unicode = "f358"
+
+[[solid]]
+name = "arrow-alt-circle-left"
+unicode = "f359"
+
+[[solid]]
+name = "arrow-alt-circle-right"
+unicode = "f35a"
+
+[[solid]]
+name = "arrow-alt-circle-up"
+unicode = "f35b"
+
+[[solid]]
+name = "arrow-circle-down"
+unicode = "f0ab"
+
+[[solid]]
+name = "arrow-circle-left"
+unicode = "f0a8"
+
+[[solid]]
+name = "arrow-circle-right"
+unicode = "f0a9"
+
+[[solid]]
+name = "arrow-circle-up"
+unicode = "f0aa"
+
+[[solid]]
+name = "arrow-down"
+unicode = "f063"
+
+[[solid]]
+name = "arrow-left"
+unicode = "f060"
+
+[[solid]]
+name = "arrow-right"
+unicode = "f061"
+
+[[solid]]
+name = "arrow-up"
+unicode = "f062"
+
+[[solid]]
+name = "arrows-alt"
+unicode = "f0b2"
+
+[[solid]]
+name = "arrows-alt-h"
+unicode = "f337"
+
+[[solid]]
+name = "arrows-alt-v"
+unicode = "f338"
+
+[[solid]]
+name = "assistive-listening-systems"
+unicode = "f2a2"
+
+[[solid]]
+name = "asterisk"
+unicode = "f069"
+
+[[solid]]
+name = "at"
+unicode = "f1fa"
+
+[[solid]]
+name = "atlas"
+unicode = "f558"
+
+[[solid]]
+name = "atom"
+unicode = "f5d2"
+
+[[solid]]
+name = "audio-description"
+unicode = "f29e"
+
+[[solid]]
+name = "award"
+unicode = "f559"
+
+[[solid]]
+name = "baby"
+unicode = "f77c"
+
+[[solid]]
+name = "baby-carriage"
+unicode = "f77d"
+
+[[solid]]
+name = "backspace"
+unicode = "f55a"
+
+[[solid]]
+name = "backward"
+unicode = "f04a"
+
+[[solid]]
+name = "bacon"
+unicode = "f7e5"
+
+[[solid]]
+name = "bacteria"
+unicode = "e059"
+
+[[solid]]
+name = "bacterium"
+unicode = "e05a"
+
+[[solid]]
+name = "bahai"
+unicode = "f666"
+
+[[solid]]
+name = "balance-scale"
+unicode = "f24e"
+
+[[solid]]
+name = "balance-scale-left"
+unicode = "f515"
+
+[[solid]]
+name = "balance-scale-right"
+unicode = "f516"
+
+[[solid]]
+name = "ban"
+unicode = "f05e"
+
+[[solid]]
+name = "band-aid"
+unicode = "f462"
+
+[[solid]]
+name = "barcode"
+unicode = "f02a"
+
+[[solid]]
+name = "bars"
+unicode = "f0c9"
+
+[[solid]]
+name = "baseball-ball"
+unicode = "f433"
+
+[[solid]]
+name = "basketball-ball"
+unicode = "f434"
+
+[[solid]]
+name = "bath"
+unicode = "f2cd"
+
+[[solid]]
+name = "battery-empty"
+unicode = "f244"
+
+[[solid]]
+name = "battery-full"
+unicode = "f240"
+
+[[solid]]
+name = "battery-half"
+unicode = "f242"
+
+[[solid]]
+name = "battery-quarter"
+unicode = "f243"
+
+[[solid]]
+name = "battery-three-quarters"
+unicode = "f241"
+
+[[solid]]
+name = "bed"
+unicode = "f236"
+
+[[solid]]
+name = "beer"
+unicode = "f0fc"
+
+[[solid]]
+name = "bell"
+unicode = "f0f3"
+
+[[solid]]
+name = "bell-slash"
+unicode = "f1f6"
+
+[[solid]]
+name = "bezier-curve"
+unicode = "f55b"
+
+[[solid]]
+name = "bible"
+unicode = "f647"
+
+[[solid]]
+name = "bicycle"
+unicode = "f206"
+
+[[solid]]
+name = "biking"
+unicode = "f84a"
+
+[[solid]]
+name = "binoculars"
+unicode = "f1e5"
+
+[[solid]]
+name = "biohazard"
+unicode = "f780"
+
+[[solid]]
+name = "birthday-cake"
+unicode = "f1fd"
+
+[[solid]]
+name = "blender"
+unicode = "f517"
+
+[[solid]]
+name = "blender-phone"
+unicode = "f6b6"
+
+[[solid]]
+name = "blind"
+unicode = "f29d"
+
+[[solid]]
+name = "blog"
+unicode = "f781"
+
+[[solid]]
+name = "bold"
+unicode = "f032"
+
+[[solid]]
+name = "bolt"
+unicode = "f0e7"
+
+[[solid]]
+name = "bomb"
+unicode = "f1e2"
+
+[[solid]]
+name = "bone"
+unicode = "f5d7"
+
+[[solid]]
+name = "bong"
+unicode = "f55c"
+
+[[solid]]
+name = "book"
+unicode = "f02d"
+
+[[solid]]
+name = "book-dead"
+unicode = "f6b7"
+
+[[solid]]
+name = "book-medical"
+unicode = "f7e6"
+
+[[solid]]
+name = "book-open"
+unicode = "f518"
+
+[[solid]]
+name = "book-reader"
+unicode = "f5da"
+
+[[solid]]
+name = "bookmark"
+unicode = "f02e"
+
+[[solid]]
+name = "border-all"
+unicode = "f84c"
+
+[[solid]]
+name = "border-none"
+unicode = "f850"
+
+[[solid]]
+name = "border-style"
+unicode = "f853"
+
+[[solid]]
+name = "bowling-ball"
+unicode = "f436"
+
+[[solid]]
+name = "box"
+unicode = "f466"
+
+[[solid]]
+name = "box-open"
+unicode = "f49e"
+
+[[solid]]
+name = "box-tissue"
+unicode = "e05b"
+
+[[solid]]
+name = "boxes"
+unicode = "f468"
+
+[[solid]]
+name = "braille"
+unicode = "f2a1"
+
+[[solid]]
+name = "brain"
+unicode = "f5dc"
+
+[[solid]]
+name = "bread-slice"
+unicode = "f7ec"
+
+[[solid]]
+name = "briefcase"
+unicode = "f0b1"
+
+[[solid]]
+name = "briefcase-medical"
+unicode = "f469"
+
+[[solid]]
+name = "broadcast-tower"
+unicode = "f519"
+
+[[solid]]
+name = "broom"
+unicode = "f51a"
+
+[[solid]]
+name = "brush"
+unicode = "f55d"
+
+[[solid]]
+name = "bug"
+unicode = "f188"
+
+[[solid]]
+name = "building"
+unicode = "f1ad"
+
+[[solid]]
+name = "bullhorn"
+unicode = "f0a1"
+
+[[solid]]
+name = "bullseye"
+unicode = "f140"
+
+[[solid]]
+name = "burn"
+unicode = "f46a"
+
+[[solid]]
+name = "bus"
+unicode = "f207"
+
+[[solid]]
+name = "bus-alt"
+unicode = "f55e"
+
+[[solid]]
+name = "business-time"
+unicode = "f64a"
+
+[[solid]]
+name = "calculator"
+unicode = "f1ec"
+
+[[solid]]
+name = "calendar"
+unicode = "f133"
+
+[[solid]]
+name = "calendar-alt"
+unicode = "f073"
+
+[[solid]]
+name = "calendar-check"
+unicode = "f274"
+
+[[solid]]
+name = "calendar-day"
+unicode = "f783"
+
+[[solid]]
+name = "calendar-minus"
+unicode = "f272"
+
+[[solid]]
+name = "calendar-plus"
+unicode = "f271"
+
+[[solid]]
+name = "calendar-times"
+unicode = "f273"
+
+[[solid]]
+name = "calendar-week"
+unicode = "f784"
+
+[[solid]]
+name = "camera"
+unicode = "f030"
+
+[[solid]]
+name = "camera-retro"
+unicode = "f083"
+
+[[solid]]
+name = "campground"
+unicode = "f6bb"
+
+[[solid]]
+name = "candy-cane"
+unicode = "f786"
+
+[[solid]]
+name = "cannabis"
+unicode = "f55f"
+
+[[solid]]
+name = "capsules"
+unicode = "f46b"
+
+[[solid]]
+name = "car"
+unicode = "f1b9"
+
+[[solid]]
+name = "car-alt"
+unicode = "f5de"
+
+[[solid]]
+name = "car-battery"
+unicode = "f5df"
+
+[[solid]]
+name = "car-crash"
+unicode = "f5e1"
+
+[[solid]]
+name = "car-side"
+unicode = "f5e4"
+
+[[solid]]
+name = "caravan"
+unicode = "f8ff"
+
+[[solid]]
+name = "caret-down"
+unicode = "f0d7"
+
+[[solid]]
+name = "caret-left"
+unicode = "f0d9"
+
+[[solid]]
+name = "caret-right"
+unicode = "f0da"
+
+[[solid]]
+name = "caret-square-down"
+unicode = "f150"
+
+[[solid]]
+name = "caret-square-left"
+unicode = "f191"
+
+[[solid]]
+name = "caret-square-right"
+unicode = "f152"
+
+[[solid]]
+name = "caret-square-up"
+unicode = "f151"
+
+[[solid]]
+name = "caret-up"
+unicode = "f0d8"
+
+[[solid]]
+name = "carrot"
+unicode = "f787"
+
+[[solid]]
+name = "cart-arrow-down"
+unicode = "f218"
+
+[[solid]]
+name = "cart-plus"
+unicode = "f217"
+
+[[solid]]
+name = "cash-register"
+unicode = "f788"
+
+[[solid]]
+name = "cat"
+unicode = "f6be"
+
+[[solid]]
+name = "certificate"
+unicode = "f0a3"
+
+[[solid]]
+name = "chair"
+unicode = "f6c0"
+
+[[solid]]
+name = "chalkboard"
+unicode = "f51b"
+
+[[solid]]
+name = "chalkboard-teacher"
+unicode = "f51c"
+
+[[solid]]
+name = "charging-station"
+unicode = "f5e7"
+
+[[solid]]
+name = "chart-area"
+unicode = "f1fe"
+
+[[solid]]
+name = "chart-bar"
+unicode = "f080"
+
+[[solid]]
+name = "chart-line"
+unicode = "f201"
+
+[[solid]]
+name = "chart-pie"
+unicode = "f200"
+
+[[solid]]
+name = "check"
+unicode = "f00c"
+
+[[solid]]
+name = "check-circle"
+unicode = "f058"
+
+[[solid]]
+name = "check-double"
+unicode = "f560"
+
+[[solid]]
+name = "check-square"
+unicode = "f14a"
+
+[[solid]]
+name = "cheese"
+unicode = "f7ef"
+
+[[solid]]
+name = "chess"
+unicode = "f439"
+
+[[solid]]
+name = "chess-bishop"
+unicode = "f43a"
+
+[[solid]]
+name = "chess-board"
+unicode = "f43c"
+
+[[solid]]
+name = "chess-king"
+unicode = "f43f"
+
+[[solid]]
+name = "chess-knight"
+unicode = "f441"
+
+[[solid]]
+name = "chess-pawn"
+unicode = "f443"
+
+[[solid]]
+name = "chess-queen"
+unicode = "f445"
+
+[[solid]]
+name = "chess-rook"
+unicode = "f447"
+
+[[solid]]
+name = "chevron-circle-down"
+unicode = "f13a"
+
+[[solid]]
+name = "chevron-circle-left"
+unicode = "f137"
+
+[[solid]]
+name = "chevron-circle-right"
+unicode = "f138"
+
+[[solid]]
+name = "chevron-circle-up"
+unicode = "f139"
+
+[[solid]]
+name = "chevron-down"
+unicode = "f078"
+
+[[solid]]
+name = "chevron-left"
+unicode = "f053"
+
+[[solid]]
+name = "chevron-right"
+unicode = "f054"
+
+[[solid]]
+name = "chevron-up"
+unicode = "f077"
+
+[[solid]]
+name = "child"
+unicode = "f1ae"
+
+[[solid]]
+name = "church"
+unicode = "f51d"
+
+[[solid]]
+name = "circle"
+unicode = "f111"
+
+[[solid]]
+name = "circle-notch"
+unicode = "f1ce"
+
+[[solid]]
+name = "city"
+unicode = "f64f"
+
+[[solid]]
+name = "clinic-medical"
+unicode = "f7f2"
+
+[[solid]]
+name = "clipboard"
+unicode = "f328"
+
+[[solid]]
+name = "clipboard-check"
+unicode = "f46c"
+
+[[solid]]
+name = "clipboard-list"
+unicode = "f46d"
+
+[[solid]]
+name = "clock"
+unicode = "f017"
+
+[[solid]]
+name = "clone"
+unicode = "f24d"
+
+[[solid]]
+name = "closed-captioning"
+unicode = "f20a"
+
+[[solid]]
+name = "cloud"
+unicode = "f0c2"
+
+[[solid]]
+name = "cloud-download-alt"
+unicode = "f381"
+
+[[solid]]
+name = "cloud-meatball"
+unicode = "f73b"
+
+[[solid]]
+name = "cloud-moon"
+unicode = "f6c3"
+
+[[solid]]
+name = "cloud-moon-rain"
+unicode = "f73c"
+
+[[solid]]
+name = "cloud-rain"
+unicode = "f73d"
+
+[[solid]]
+name = "cloud-showers-heavy"
+unicode = "f740"
+
+[[solid]]
+name = "cloud-sun"
+unicode = "f6c4"
+
+[[solid]]
+name = "cloud-sun-rain"
+unicode = "f743"
+
+[[solid]]
+name = "cloud-upload-alt"
+unicode = "f382"
+
+[[solid]]
+name = "cocktail"
+unicode = "f561"
+
+[[solid]]
+name = "code"
+unicode = "f121"
+
+[[solid]]
+name = "code-branch"
+unicode = "f126"
+
+[[solid]]
+name = "coffee"
+unicode = "f0f4"
+
+[[solid]]
+name = "cog"
+unicode = "f013"
+
+[[solid]]
+name = "cogs"
+unicode = "f085"
+
+[[solid]]
+name = "coins"
+unicode = "f51e"
+
+[[solid]]
+name = "columns"
+unicode = "f0db"
+
+[[solid]]
+name = "comment"
+unicode = "f075"
+
+[[solid]]
+name = "comment-alt"
+unicode = "f27a"
+
+[[solid]]
+name = "comment-dollar"
+unicode = "f651"
+
+[[solid]]
+name = "comment-dots"
+unicode = "f4ad"
+
+[[solid]]
+name = "comment-medical"
+unicode = "f7f5"
+
+[[solid]]
+name = "comment-slash"
+unicode = "f4b3"
+
+[[solid]]
+name = "comments"
+unicode = "f086"
+
+[[solid]]
+name = "comments-dollar"
+unicode = "f653"
+
+[[solid]]
+name = "compact-disc"
+unicode = "f51f"
+
+[[solid]]
+name = "compass"
+unicode = "f14e"
+
+[[solid]]
+name = "compress"
+unicode = "f066"
+
+[[solid]]
+name = "compress-alt"
+unicode = "f422"
+
+[[solid]]
+name = "compress-arrows-alt"
+unicode = "f78c"
+
+[[solid]]
+name = "concierge-bell"
+unicode = "f562"
+
+[[solid]]
+name = "cookie"
+unicode = "f563"
+
+[[solid]]
+name = "cookie-bite"
+unicode = "f564"
+
+[[solid]]
+name = "copy"
+unicode = "f0c5"
+
+[[solid]]
+name = "copyright"
+unicode = "f1f9"
+
+[[solid]]
+name = "couch"
+unicode = "f4b8"
+
+[[solid]]
+name = "credit-card"
+unicode = "f09d"
+
+[[solid]]
+name = "crop"
+unicode = "f125"
+
+[[solid]]
+name = "crop-alt"
+unicode = "f565"
+
+[[solid]]
+name = "cross"
+unicode = "f654"
+
+[[solid]]
+name = "crosshairs"
+unicode = "f05b"
+
+[[solid]]
+name = "crow"
+unicode = "f520"
+
+[[solid]]
+name = "crown"
+unicode = "f521"
+
+[[solid]]
+name = "crutch"
+unicode = "f7f7"
+
+[[solid]]
+name = "cube"
+unicode = "f1b2"
+
+[[solid]]
+name = "cubes"
+unicode = "f1b3"
+
+[[solid]]
+name = "cut"
+unicode = "f0c4"
+
+[[solid]]
+name = "database"
+unicode = "f1c0"
+
+[[solid]]
+name = "deaf"
+unicode = "f2a4"
+
+[[solid]]
+name = "democrat"
+unicode = "f747"
+
+[[solid]]
+name = "desktop"
+unicode = "f108"
+
+[[solid]]
+name = "dharmachakra"
+unicode = "f655"
+
+[[solid]]
+name = "diagnoses"
+unicode = "f470"
+
+[[solid]]
+name = "dice"
+unicode = "f522"
+
+[[solid]]
+name = "dice-d20"
+unicode = "f6cf"
+
+[[solid]]
+name = "dice-d6"
+unicode = "f6d1"
+
+[[solid]]
+name = "dice-five"
+unicode = "f523"
+
+[[solid]]
+name = "dice-four"
+unicode = "f524"
+
+[[solid]]
+name = "dice-one"
+unicode = "f525"
+
+[[solid]]
+name = "dice-six"
+unicode = "f526"
+
+[[solid]]
+name = "dice-three"
+unicode = "f527"
+
+[[solid]]
+name = "dice-two"
+unicode = "f528"
+
+[[solid]]
+name = "digital-tachograph"
+unicode = "f566"
+
+[[solid]]
+name = "directions"
+unicode = "f5eb"
+
+[[solid]]
+name = "disease"
+unicode = "f7fa"
+
+[[solid]]
+name = "divide"
+unicode = "f529"
+
+[[solid]]
+name = "dizzy"
+unicode = "f567"
+
+[[solid]]
+name = "dna"
+unicode = "f471"
+
+[[solid]]
+name = "dog"
+unicode = "f6d3"
+
+[[solid]]
+name = "dollar-sign"
+unicode = "f155"
+
+[[solid]]
+name = "dolly"
+unicode = "f472"
+
+[[solid]]
+name = "dolly-flatbed"
+unicode = "f474"
+
+[[solid]]
+name = "donate"
+unicode = "f4b9"
+
+[[solid]]
+name = "door-closed"
+unicode = "f52a"
+
+[[solid]]
+name = "door-open"
+unicode = "f52b"
+
+[[solid]]
+name = "dot-circle"
+unicode = "f192"
+
+[[solid]]
+name = "dove"
+unicode = "f4ba"
+
+[[solid]]
+name = "download"
+unicode = "f019"
+
+[[solid]]
+name = "drafting-compass"
+unicode = "f568"
+
+[[solid]]
+name = "dragon"
+unicode = "f6d5"
+
+[[solid]]
+name = "draw-polygon"
+unicode = "f5ee"
+
+[[solid]]
+name = "drum"
+unicode = "f569"
+
+[[solid]]
+name = "drum-steelpan"
+unicode = "f56a"
+
+[[solid]]
+name = "drumstick-bite"
+unicode = "f6d7"
+
+[[solid]]
+name = "dumbbell"
+unicode = "f44b"
+
+[[solid]]
+name = "dumpster"
+unicode = "f793"
+
+[[solid]]
+name = "dumpster-fire"
+unicode = "f794"
+
+[[solid]]
+name = "dungeon"
+unicode = "f6d9"
+
+[[solid]]
+name = "edit"
+unicode = "f044"
+
+[[solid]]
+name = "egg"
+unicode = "f7fb"
+
+[[solid]]
+name = "eject"
+unicode = "f052"
+
+[[solid]]
+name = "ellipsis-h"
+unicode = "f141"
+
+[[solid]]
+name = "ellipsis-v"
+unicode = "f142"
+
+[[solid]]
+name = "envelope"
+unicode = "f0e0"
+
+[[solid]]
+name = "envelope-open"
+unicode = "f2b6"
+
+[[solid]]
+name = "envelope-open-text"
+unicode = "f658"
+
+[[solid]]
+name = "envelope-square"
+unicode = "f199"
+
+[[solid]]
+name = "equals"
+unicode = "f52c"
+
+[[solid]]
+name = "eraser"
+unicode = "f12d"
+
+[[solid]]
+name = "ethernet"
+unicode = "f796"
+
+[[solid]]
+name = "euro-sign"
+unicode = "f153"
+
+[[solid]]
+name = "exchange-alt"
+unicode = "f362"
+
+[[solid]]
+name = "exclamation"
+unicode = "f12a"
+
+[[solid]]
+name = "exclamation-circle"
+unicode = "f06a"
+
+[[solid]]
+name = "exclamation-triangle"
+unicode = "f071"
+
+[[solid]]
+name = "expand"
+unicode = "f065"
+
+[[solid]]
+name = "expand-alt"
+unicode = "f424"
+
+[[solid]]
+name = "expand-arrows-alt"
+unicode = "f31e"
+
+[[solid]]
+name = "external-link-alt"
+unicode = "f35d"
+
+[[solid]]
+name = "external-link-square-alt"
+unicode = "f360"
+
+[[solid]]
+name = "eye"
+unicode = "f06e"
+
+[[solid]]
+name = "eye-dropper"
+unicode = "f1fb"
+
+[[solid]]
+name = "eye-slash"
+unicode = "f070"
+
+[[solid]]
+name = "fan"
+unicode = "f863"
+
+[[solid]]
+name = "fast-backward"
+unicode = "f049"
+
+[[solid]]
+name = "fast-forward"
+unicode = "f050"
+
+[[solid]]
+name = "faucet"
+unicode = "e005"
+
+[[solid]]
+name = "fax"
+unicode = "f1ac"
+
+[[solid]]
+name = "feather"
+unicode = "f52d"
+
+[[solid]]
+name = "feather-alt"
+unicode = "f56b"
+
+[[solid]]
+name = "female"
+unicode = "f182"
+
+[[solid]]
+name = "fighter-jet"
+unicode = "f0fb"
+
+[[solid]]
+name = "file"
+unicode = "f15b"
+
+[[solid]]
+name = "file-alt"
+unicode = "f15c"
+
+[[solid]]
+name = "file-archive"
+unicode = "f1c6"
+
+[[solid]]
+name = "file-audio"
+unicode = "f1c7"
+
+[[solid]]
+name = "file-code"
+unicode = "f1c9"
+
+[[solid]]
+name = "file-contract"
+unicode = "f56c"
+
+[[solid]]
+name = "file-csv"
+unicode = "f6dd"
+
+[[solid]]
+name = "file-download"
+unicode = "f56d"
+
+[[solid]]
+name = "file-excel"
+unicode = "f1c3"
+
+[[solid]]
+name = "file-export"
+unicode = "f56e"
+
+[[solid]]
+name = "file-image"
+unicode = "f1c5"
+
+[[solid]]
+name = "file-import"
+unicode = "f56f"
+
+[[solid]]
+name = "file-invoice"
+unicode = "f570"
+
+[[solid]]
+name = "file-invoice-dollar"
+unicode = "f571"
+
+[[solid]]
+name = "file-medical"
+unicode = "f477"
+
+[[solid]]
+name = "file-medical-alt"
+unicode = "f478"
+
+[[solid]]
+name = "file-pdf"
+unicode = "f1c1"
+
+[[solid]]
+name = "file-powerpoint"
+unicode = "f1c4"
+
+[[solid]]
+name = "file-prescription"
+unicode = "f572"
+
+[[solid]]
+name = "file-signature"
+unicode = "f573"
+
+[[solid]]
+name = "file-upload"
+unicode = "f574"
+
+[[solid]]
+name = "file-video"
+unicode = "f1c8"
+
+[[solid]]
+name = "file-word"
+unicode = "f1c2"
+
+[[solid]]
+name = "fill"
+unicode = "f575"
+
+[[solid]]
+name = "fill-drip"
+unicode = "f576"
+
+[[solid]]
+name = "film"
+unicode = "f008"
+
+[[solid]]
+name = "filter"
+unicode = "f0b0"
+
+[[solid]]
+name = "fingerprint"
+unicode = "f577"
+
+[[solid]]
+name = "fire"
+unicode = "f06d"
+
+[[solid]]
+name = "fire-alt"
+unicode = "f7e4"
+
+[[solid]]
+name = "fire-extinguisher"
+unicode = "f134"
+
+[[solid]]
+name = "first-aid"
+unicode = "f479"
+
+[[solid]]
+name = "fish"
+unicode = "f578"
+
+[[solid]]
+name = "fist-raised"
+unicode = "f6de"
+
+[[solid]]
+name = "flag"
+unicode = "f024"
+
+[[solid]]
+name = "flag-checkered"
+unicode = "f11e"
+
+[[solid]]
+name = "flag-usa"
+unicode = "f74d"
+
+[[solid]]
+name = "flask"
+unicode = "f0c3"
+
+[[solid]]
+name = "flushed"
+unicode = "f579"
+
+[[solid]]
+name = "folder"
+unicode = "f07b"
+
+[[solid]]
+name = "folder-minus"
+unicode = "f65d"
+
+[[solid]]
+name = "folder-open"
+unicode = "f07c"
+
+[[solid]]
+name = "folder-plus"
+unicode = "f65e"
+
+[[solid]]
+name = "font"
+unicode = "f031"
+
+[[solid]]
+name = "font-awesome-logo-full"
+unicode = "f4e6"
+
+[[solid]]
+name = "football-ball"
+unicode = "f44e"
+
+[[solid]]
+name = "forward"
+unicode = "f04e"
+
+[[solid]]
+name = "frog"
+unicode = "f52e"
+
+[[solid]]
+name = "frown"
+unicode = "f119"
+
+[[solid]]
+name = "frown-open"
+unicode = "f57a"
+
+[[solid]]
+name = "funnel-dollar"
+unicode = "f662"
+
+[[solid]]
+name = "futbol"
+unicode = "f1e3"
+
+[[solid]]
+name = "gamepad"
+unicode = "f11b"
+
+[[solid]]
+name = "gas-pump"
+unicode = "f52f"
+
+[[solid]]
+name = "gavel"
+unicode = "f0e3"
+
+[[solid]]
+name = "gem"
+unicode = "f3a5"
+
+[[solid]]
+name = "genderless"
+unicode = "f22d"
+
+[[solid]]
+name = "ghost"
+unicode = "f6e2"
+
+[[solid]]
+name = "gift"
+unicode = "f06b"
+
+[[solid]]
+name = "gifts"
+unicode = "f79c"
+
+[[solid]]
+name = "glass-cheers"
+unicode = "f79f"
+
+[[solid]]
+name = "glass-martini"
+unicode = "f000"
+
+[[solid]]
+name = "glass-martini-alt"
+unicode = "f57b"
+
+[[solid]]
+name = "glass-whiskey"
+unicode = "f7a0"
+
+[[solid]]
+name = "glasses"
+unicode = "f530"
+
+[[solid]]
+name = "globe"
+unicode = "f0ac"
+
+[[solid]]
+name = "globe-africa"
+unicode = "f57c"
+
+[[solid]]
+name = "globe-americas"
+unicode = "f57d"
+
+[[solid]]
+name = "globe-asia"
+unicode = "f57e"
+
+[[solid]]
+name = "globe-europe"
+unicode = "f7a2"
+
+[[solid]]
+name = "golf-ball"
+unicode = "f450"
+
+[[solid]]
+name = "gopuram"
+unicode = "f664"
+
+[[solid]]
+name = "graduation-cap"
+unicode = "f19d"
+
+[[solid]]
+name = "greater-than"
+unicode = "f531"
+
+[[solid]]
+name = "greater-than-equal"
+unicode = "f532"
+
+[[solid]]
+name = "grimace"
+unicode = "f57f"
+
+[[solid]]
+name = "grin"
+unicode = "f580"
+
+[[solid]]
+name = "grin-alt"
+unicode = "f581"
+
+[[solid]]
+name = "grin-beam"
+unicode = "f582"
+
+[[solid]]
+name = "grin-beam-sweat"
+unicode = "f583"
+
+[[solid]]
+name = "grin-hearts"
+unicode = "f584"
+
+[[solid]]
+name = "grin-squint"
+unicode = "f585"
+
+[[solid]]
+name = "grin-squint-tears"
+unicode = "f586"
+
+[[solid]]
+name = "grin-stars"
+unicode = "f587"
+
+[[solid]]
+name = "grin-tears"
+unicode = "f588"
+
+[[solid]]
+name = "grin-tongue"
+unicode = "f589"
+
+[[solid]]
+name = "grin-tongue-squint"
+unicode = "f58a"
+
+[[solid]]
+name = "grin-tongue-wink"
+unicode = "f58b"
+
+[[solid]]
+name = "grin-wink"
+unicode = "f58c"
+
+[[solid]]
+name = "grip-horizontal"
+unicode = "f58d"
+
+[[solid]]
+name = "grip-lines"
+unicode = "f7a4"
+
+[[solid]]
+name = "grip-lines-vertical"
+unicode = "f7a5"
+
+[[solid]]
+name = "grip-vertical"
+unicode = "f58e"
+
+[[solid]]
+name = "guitar"
+unicode = "f7a6"
+
+[[solid]]
+name = "h-square"
+unicode = "f0fd"
+
+[[solid]]
+name = "hamburger"
+unicode = "f805"
+
+[[solid]]
+name = "hammer"
+unicode = "f6e3"
+
+[[solid]]
+name = "hamsa"
+unicode = "f665"
+
+[[solid]]
+name = "hand-holding"
+unicode = "f4bd"
+
+[[solid]]
+name = "hand-holding-heart"
+unicode = "f4be"
+
+[[solid]]
+name = "hand-holding-medical"
+unicode = "e05c"
+
+[[solid]]
+name = "hand-holding-usd"
+unicode = "f4c0"
+
+[[solid]]
+name = "hand-holding-water"
+unicode = "f4c1"
+
+[[solid]]
+name = "hand-lizard"
+unicode = "f258"
+
+[[solid]]
+name = "hand-middle-finger"
+unicode = "f806"
+
+[[solid]]
+name = "hand-paper"
+unicode = "f256"
+
+[[solid]]
+name = "hand-peace"
+unicode = "f25b"
+
+[[solid]]
+name = "hand-point-down"
+unicode = "f0a7"
+
+[[solid]]
+name = "hand-point-left"
+unicode = "f0a5"
+
+[[solid]]
+name = "hand-point-right"
+unicode = "f0a4"
+
+[[solid]]
+name = "hand-point-up"
+unicode = "f0a6"
+
+[[solid]]
+name = "hand-pointer"
+unicode = "f25a"
+
+[[solid]]
+name = "hand-rock"
+unicode = "f255"
+
+[[solid]]
+name = "hand-scissors"
+unicode = "f257"
+
+[[solid]]
+name = "hand-sparkles"
+unicode = "e05d"
+
+[[solid]]
+name = "hand-spock"
+unicode = "f259"
+
+[[solid]]
+name = "hands"
+unicode = "f4c2"
+
+[[solid]]
+name = "hands-helping"
+unicode = "f4c4"
+
+[[solid]]
+name = "hands-wash"
+unicode = "e05e"
+
+[[solid]]
+name = "handshake"
+unicode = "f2b5"
+
+[[solid]]
+name = "handshake-alt-slash"
+unicode = "e05f"
+
+[[solid]]
+name = "handshake-slash"
+unicode = "e060"
+
+[[solid]]
+name = "hanukiah"
+unicode = "f6e6"
+
+[[solid]]
+name = "hard-hat"
+unicode = "f807"
+
+[[solid]]
+name = "hashtag"
+unicode = "f292"
+
+[[solid]]
+name = "hat-cowboy"
+unicode = "f8c0"
+
+[[solid]]
+name = "hat-cowboy-side"
+unicode = "f8c1"
+
+[[solid]]
+name = "hat-wizard"
+unicode = "f6e8"
+
+[[solid]]
+name = "hdd"
+unicode = "f0a0"
+
+[[solid]]
+name = "head-side-cough"
+unicode = "e061"
+
+[[solid]]
+name = "head-side-cough-slash"
+unicode = "e062"
+
+[[solid]]
+name = "head-side-mask"
+unicode = "e063"
+
+[[solid]]
+name = "head-side-virus"
+unicode = "e064"
+
+[[solid]]
+name = "heading"
+unicode = "f1dc"
+
+[[solid]]
+name = "headphones"
+unicode = "f025"
+
+[[solid]]
+name = "headphones-alt"
+unicode = "f58f"
+
+[[solid]]
+name = "headset"
+unicode = "f590"
+
+[[solid]]
+name = "heart"
+unicode = "f004"
+
+[[solid]]
+name = "heart-broken"
+unicode = "f7a9"
+
+[[solid]]
+name = "heartbeat"
+unicode = "f21e"
+
+[[solid]]
+name = "helicopter"
+unicode = "f533"
+
+[[solid]]
+name = "highlighter"
+unicode = "f591"
+
+[[solid]]
+name = "hiking"
+unicode = "f6ec"
+
+[[solid]]
+name = "hippo"
+unicode = "f6ed"
+
+[[solid]]
+name = "history"
+unicode = "f1da"
+
+[[solid]]
+name = "hockey-puck"
+unicode = "f453"
+
+[[solid]]
+name = "holly-berry"
+unicode = "f7aa"
+
+[[solid]]
+name = "home"
+unicode = "f015"
+
+[[solid]]
+name = "horse"
+unicode = "f6f0"
+
+[[solid]]
+name = "horse-head"
+unicode = "f7ab"
+
+[[solid]]
+name = "hospital"
+unicode = "f0f8"
+
+[[solid]]
+name = "hospital-alt"
+unicode = "f47d"
+
+[[solid]]
+name = "hospital-symbol"
+unicode = "f47e"
+
+[[solid]]
+name = "hospital-user"
+unicode = "f80d"
+
+[[solid]]
+name = "hot-tub"
+unicode = "f593"
+
+[[solid]]
+name = "hotdog"
+unicode = "f80f"
+
+[[solid]]
+name = "hotel"
+unicode = "f594"
+
+[[solid]]
+name = "hourglass"
+unicode = "f254"
+
+[[solid]]
+name = "hourglass-end"
+unicode = "f253"
+
+[[solid]]
+name = "hourglass-half"
+unicode = "f252"
+
+[[solid]]
+name = "hourglass-start"
+unicode = "f251"
+
+[[solid]]
+name = "house-damage"
+unicode = "f6f1"
+
+[[solid]]
+name = "house-user"
+unicode = "e065"
+
+[[solid]]
+name = "hryvnia"
+unicode = "f6f2"
+
+[[solid]]
+name = "i-cursor"
+unicode = "f246"
+
+[[solid]]
+name = "ice-cream"
+unicode = "f810"
+
+[[solid]]
+name = "icicles"
+unicode = "f7ad"
+
+[[solid]]
+name = "icons"
+unicode = "f86d"
+
+[[solid]]
+name = "id-badge"
+unicode = "f2c1"
+
+[[solid]]
+name = "id-card"
+unicode = "f2c2"
+
+[[solid]]
+name = "id-card-alt"
+unicode = "f47f"
+
+[[solid]]
+name = "igloo"
+unicode = "f7ae"
+
+[[solid]]
+name = "image"
+unicode = "f03e"
+
+[[solid]]
+name = "images"
+unicode = "f302"
+
+[[solid]]
+name = "inbox"
+unicode = "f01c"
+
+[[solid]]
+name = "indent"
+unicode = "f03c"
+
+[[solid]]
+name = "industry"
+unicode = "f275"
+
+[[solid]]
+name = "infinity"
+unicode = "f534"
+
+[[solid]]
+name = "info"
+unicode = "f129"
+
+[[solid]]
+name = "info-circle"
+unicode = "f05a"
+
+[[solid]]
+name = "italic"
+unicode = "f033"
+
+[[solid]]
+name = "jedi"
+unicode = "f669"
+
+[[solid]]
+name = "joint"
+unicode = "f595"
+
+[[solid]]
+name = "journal-whills"
+unicode = "f66a"
+
+[[solid]]
+name = "kaaba"
+unicode = "f66b"
+
+[[solid]]
+name = "key"
+unicode = "f084"
+
+[[solid]]
+name = "keyboard"
+unicode = "f11c"
+
+[[solid]]
+name = "khanda"
+unicode = "f66d"
+
+[[solid]]
+name = "kiss"
+unicode = "f596"
+
+[[solid]]
+name = "kiss-beam"
+unicode = "f597"
+
+[[solid]]
+name = "kiss-wink-heart"
+unicode = "f598"
+
+[[solid]]
+name = "kiwi-bird"
+unicode = "f535"
+
+[[solid]]
+name = "landmark"
+unicode = "f66f"
+
+[[solid]]
+name = "language"
+unicode = "f1ab"
+
+[[solid]]
+name = "laptop"
+unicode = "f109"
+
+[[solid]]
+name = "laptop-code"
+unicode = "f5fc"
+
+[[solid]]
+name = "laptop-house"
+unicode = "e066"
+
+[[solid]]
+name = "laptop-medical"
+unicode = "f812"
+
+[[solid]]
+name = "laugh"
+unicode = "f599"
+
+[[solid]]
+name = "laugh-beam"
+unicode = "f59a"
+
+[[solid]]
+name = "laugh-squint"
+unicode = "f59b"
+
+[[solid]]
+name = "laugh-wink"
+unicode = "f59c"
+
+[[solid]]
+name = "layer-group"
+unicode = "f5fd"
+
+[[solid]]
+name = "leaf"
+unicode = "f06c"
+
+[[solid]]
+name = "lemon"
+unicode = "f094"
+
+[[solid]]
+name = "less-than"
+unicode = "f536"
+
+[[solid]]
+name = "less-than-equal"
+unicode = "f537"
+
+[[solid]]
+name = "level-down-alt"
+unicode = "f3be"
+
+[[solid]]
+name = "level-up-alt"
+unicode = "f3bf"
+
+[[solid]]
+name = "life-ring"
+unicode = "f1cd"
+
+[[solid]]
+name = "lightbulb"
+unicode = "f0eb"
+
+[[solid]]
+name = "link"
+unicode = "f0c1"
+
+[[solid]]
+name = "lira-sign"
+unicode = "f195"
+
+[[solid]]
+name = "list"
+unicode = "f03a"
+
+[[solid]]
+name = "list-alt"
+unicode = "f022"
+
+[[solid]]
+name = "list-ol"
+unicode = "f0cb"
+
+[[solid]]
+name = "list-ul"
+unicode = "f0ca"
+
+[[solid]]
+name = "location-arrow"
+unicode = "f124"
+
+[[solid]]
+name = "lock"
+unicode = "f023"
+
+[[solid]]
+name = "lock-open"
+unicode = "f3c1"
+
+[[solid]]
+name = "long-arrow-alt-down"
+unicode = "f309"
+
+[[solid]]
+name = "long-arrow-alt-left"
+unicode = "f30a"
+
+[[solid]]
+name = "long-arrow-alt-right"
+unicode = "f30b"
+
+[[solid]]
+name = "long-arrow-alt-up"
+unicode = "f30c"
+
+[[solid]]
+name = "low-vision"
+unicode = "f2a8"
+
+[[solid]]
+name = "luggage-cart"
+unicode = "f59d"
+
+[[solid]]
+name = "lungs"
+unicode = "f604"
+
+[[solid]]
+name = "lungs-virus"
+unicode = "e067"
+
+[[solid]]
+name = "magic"
+unicode = "f0d0"
+
+[[solid]]
+name = "magnet"
+unicode = "f076"
+
+[[solid]]
+name = "mail-bulk"
+unicode = "f674"
+
+[[solid]]
+name = "male"
+unicode = "f183"
+
+[[solid]]
+name = "map"
+unicode = "f279"
+
+[[solid]]
+name = "map-marked"
+unicode = "f59f"
+
+[[solid]]
+name = "map-marked-alt"
+unicode = "f5a0"
+
+[[solid]]
+name = "map-marker"
+unicode = "f041"
+
+[[solid]]
+name = "map-marker-alt"
+unicode = "f3c5"
+
+[[solid]]
+name = "map-pin"
+unicode = "f276"
+
+[[solid]]
+name = "map-signs"
+unicode = "f277"
+
+[[solid]]
+name = "marker"
+unicode = "f5a1"
+
+[[solid]]
+name = "mars"
+unicode = "f222"
+
+[[solid]]
+name = "mars-double"
+unicode = "f227"
+
+[[solid]]
+name = "mars-stroke"
+unicode = "f229"
+
+[[solid]]
+name = "mars-stroke-h"
+unicode = "f22b"
+
+[[solid]]
+name = "mars-stroke-v"
+unicode = "f22a"
+
+[[solid]]
+name = "mask"
+unicode = "f6fa"
+
+[[solid]]
+name = "medal"
+unicode = "f5a2"
+
+[[solid]]
+name = "medkit"
+unicode = "f0fa"
+
+[[solid]]
+name = "meh"
+unicode = "f11a"
+
+[[solid]]
+name = "meh-blank"
+unicode = "f5a4"
+
+[[solid]]
+name = "meh-rolling-eyes"
+unicode = "f5a5"
+
+[[solid]]
+name = "memory"
+unicode = "f538"
+
+[[solid]]
+name = "menorah"
+unicode = "f676"
+
+[[solid]]
+name = "mercury"
+unicode = "f223"
+
+[[solid]]
+name = "meteor"
+unicode = "f753"
+
+[[solid]]
+name = "microchip"
+unicode = "f2db"
+
+[[solid]]
+name = "microphone"
+unicode = "f130"
+
+[[solid]]
+name = "microphone-alt"
+unicode = "f3c9"
+
+[[solid]]
+name = "microphone-alt-slash"
+unicode = "f539"
+
+[[solid]]
+name = "microphone-slash"
+unicode = "f131"
+
+[[solid]]
+name = "microscope"
+unicode = "f610"
+
+[[solid]]
+name = "minus"
+unicode = "f068"
+
+[[solid]]
+name = "minus-circle"
+unicode = "f056"
+
+[[solid]]
+name = "minus-square"
+unicode = "f146"
+
+[[solid]]
+name = "mitten"
+unicode = "f7b5"
+
+[[solid]]
+name = "mobile"
+unicode = "f10b"
+
+[[solid]]
+name = "mobile-alt"
+unicode = "f3cd"
+
+[[solid]]
+name = "money-bill"
+unicode = "f0d6"
+
+[[solid]]
+name = "money-bill-alt"
+unicode = "f3d1"
+
+[[solid]]
+name = "money-bill-wave"
+unicode = "f53a"
+
+[[solid]]
+name = "money-bill-wave-alt"
+unicode = "f53b"
+
+[[solid]]
+name = "money-check"
+unicode = "f53c"
+
+[[solid]]
+name = "money-check-alt"
+unicode = "f53d"
+
+[[solid]]
+name = "monument"
+unicode = "f5a6"
+
+[[solid]]
+name = "moon"
+unicode = "f186"
+
+[[solid]]
+name = "mortar-pestle"
+unicode = "f5a7"
+
+[[solid]]
+name = "mosque"
+unicode = "f678"
+
+[[solid]]
+name = "motorcycle"
+unicode = "f21c"
+
+[[solid]]
+name = "mountain"
+unicode = "f6fc"
+
+[[solid]]
+name = "mouse"
+unicode = "f8cc"
+
+[[solid]]
+name = "mouse-pointer"
+unicode = "f245"
+
+[[solid]]
+name = "mug-hot"
+unicode = "f7b6"
+
+[[solid]]
+name = "music"
+unicode = "f001"
+
+[[solid]]
+name = "network-wired"
+unicode = "f6ff"
+
+[[solid]]
+name = "neuter"
+unicode = "f22c"
+
+[[solid]]
+name = "newspaper"
+unicode = "f1ea"
+
+[[solid]]
+name = "not-equal"
+unicode = "f53e"
+
+[[solid]]
+name = "notes-medical"
+unicode = "f481"
+
+[[solid]]
+name = "object-group"
+unicode = "f247"
+
+[[solid]]
+name = "object-ungroup"
+unicode = "f248"
+
+[[solid]]
+name = "oil-can"
+unicode = "f613"
+
+[[solid]]
+name = "om"
+unicode = "f679"
+
+[[solid]]
+name = "otter"
+unicode = "f700"
+
+[[solid]]
+name = "outdent"
+unicode = "f03b"
+
+[[solid]]
+name = "pager"
+unicode = "f815"
+
+[[solid]]
+name = "paint-brush"
+unicode = "f1fc"
+
+[[solid]]
+name = "paint-roller"
+unicode = "f5aa"
+
+[[solid]]
+name = "palette"
+unicode = "f53f"
+
+[[solid]]
+name = "pallet"
+unicode = "f482"
+
+[[solid]]
+name = "paper-plane"
+unicode = "f1d8"
+
+[[solid]]
+name = "paperclip"
+unicode = "f0c6"
+
+[[solid]]
+name = "parachute-box"
+unicode = "f4cd"
+
+[[solid]]
+name = "paragraph"
+unicode = "f1dd"
+
+[[solid]]
+name = "parking"
+unicode = "f540"
+
+[[solid]]
+name = "passport"
+unicode = "f5ab"
+
+[[solid]]
+name = "pastafarianism"
+unicode = "f67b"
+
+[[solid]]
+name = "paste"
+unicode = "f0ea"
+
+[[solid]]
+name = "pause"
+unicode = "f04c"
+
+[[solid]]
+name = "pause-circle"
+unicode = "f28b"
+
+[[solid]]
+name = "paw"
+unicode = "f1b0"
+
+[[solid]]
+name = "peace"
+unicode = "f67c"
+
+[[solid]]
+name = "pen"
+unicode = "f304"
+
+[[solid]]
+name = "pen-alt"
+unicode = "f305"
+
+[[solid]]
+name = "pen-fancy"
+unicode = "f5ac"
+
+[[solid]]
+name = "pen-nib"
+unicode = "f5ad"
+
+[[solid]]
+name = "pen-square"
+unicode = "f14b"
+
+[[solid]]
+name = "pencil-alt"
+unicode = "f303"
+
+[[solid]]
+name = "pencil-ruler"
+unicode = "f5ae"
+
+[[solid]]
+name = "people-arrows"
+unicode = "e068"
+
+[[solid]]
+name = "people-carry"
+unicode = "f4ce"
+
+[[solid]]
+name = "pepper-hot"
+unicode = "f816"
+
+[[solid]]
+name = "percent"
+unicode = "f295"
+
+[[solid]]
+name = "percentage"
+unicode = "f541"
+
+[[solid]]
+name = "person-booth"
+unicode = "f756"
+
+[[solid]]
+name = "phone"
+unicode = "f095"
+
+[[solid]]
+name = "phone-alt"
+unicode = "f879"
+
+[[solid]]
+name = "phone-slash"
+unicode = "f3dd"
+
+[[solid]]
+name = "phone-square"
+unicode = "f098"
+
+[[solid]]
+name = "phone-square-alt"
+unicode = "f87b"
+
+[[solid]]
+name = "phone-volume"
+unicode = "f2a0"
+
+[[solid]]
+name = "photo-video"
+unicode = "f87c"
+
+[[solid]]
+name = "piggy-bank"
+unicode = "f4d3"
+
+[[solid]]
+name = "pills"
+unicode = "f484"
+
+[[solid]]
+name = "pizza-slice"
+unicode = "f818"
+
+[[solid]]
+name = "place-of-worship"
+unicode = "f67f"
+
+[[solid]]
+name = "plane"
+unicode = "f072"
+
+[[solid]]
+name = "plane-arrival"
+unicode = "f5af"
+
+[[solid]]
+name = "plane-departure"
+unicode = "f5b0"
+
+[[solid]]
+name = "plane-slash"
+unicode = "e069"
+
+[[solid]]
+name = "play"
+unicode = "f04b"
+
+[[solid]]
+name = "play-circle"
+unicode = "f144"
+
+[[solid]]
+name = "plug"
+unicode = "f1e6"
+
+[[solid]]
+name = "plus"
+unicode = "f067"
+
+[[solid]]
+name = "plus-circle"
+unicode = "f055"
+
+[[solid]]
+name = "plus-square"
+unicode = "f0fe"
+
+[[solid]]
+name = "podcast"
+unicode = "f2ce"
+
+[[solid]]
+name = "poll"
+unicode = "f681"
+
+[[solid]]
+name = "poll-h"
+unicode = "f682"
+
+[[solid]]
+name = "poo"
+unicode = "f2fe"
+
+[[solid]]
+name = "poo-storm"
+unicode = "f75a"
+
+[[solid]]
+name = "poop"
+unicode = "f619"
+
+[[solid]]
+name = "portrait"
+unicode = "f3e0"
+
+[[solid]]
+name = "pound-sign"
+unicode = "f154"
+
+[[solid]]
+name = "power-off"
+unicode = "f011"
+
+[[solid]]
+name = "pray"
+unicode = "f683"
+
+[[solid]]
+name = "praying-hands"
+unicode = "f684"
+
+[[solid]]
+name = "prescription"
+unicode = "f5b1"
+
+[[solid]]
+name = "prescription-bottle"
+unicode = "f485"
+
+[[solid]]
+name = "prescription-bottle-alt"
+unicode = "f486"
+
+[[solid]]
+name = "print"
+unicode = "f02f"
+
+[[solid]]
+name = "procedures"
+unicode = "f487"
+
+[[solid]]
+name = "project-diagram"
+unicode = "f542"
+
+[[solid]]
+name = "pump-medical"
+unicode = "e06a"
+
+[[solid]]
+name = "pump-soap"
+unicode = "e06b"
+
+[[solid]]
+name = "puzzle-piece"
+unicode = "f12e"
+
+[[solid]]
+name = "qrcode"
+unicode = "f029"
+
+[[solid]]
+name = "question"
+unicode = "f128"
+
+[[solid]]
+name = "question-circle"
+unicode = "f059"
+
+[[solid]]
+name = "quidditch"
+unicode = "f458"
+
+[[solid]]
+name = "quote-left"
+unicode = "f10d"
+
+[[solid]]
+name = "quote-right"
+unicode = "f10e"
+
+[[solid]]
+name = "quran"
+unicode = "f687"
+
+[[solid]]
+name = "radiation"
+unicode = "f7b9"
+
+[[solid]]
+name = "radiation-alt"
+unicode = "f7ba"
+
+[[solid]]
+name = "rainbow"
+unicode = "f75b"
+
+[[solid]]
+name = "random"
+unicode = "f074"
+
+[[solid]]
+name = "receipt"
+unicode = "f543"
+
+[[solid]]
+name = "record-vinyl"
+unicode = "f8d9"
+
+[[solid]]
+name = "recycle"
+unicode = "f1b8"
+
+[[solid]]
+name = "redo"
+unicode = "f01e"
+
+[[solid]]
+name = "redo-alt"
+unicode = "f2f9"
+
+[[solid]]
+name = "registered"
+unicode = "f25d"
+
+[[solid]]
+name = "remove-format"
+unicode = "f87d"
+
+[[solid]]
+name = "reply"
+unicode = "f3e5"
+
+[[solid]]
+name = "reply-all"
+unicode = "f122"
+
+[[solid]]
+name = "republican"
+unicode = "f75e"
+
+[[solid]]
+name = "restroom"
+unicode = "f7bd"
+
+[[solid]]
+name = "retweet"
+unicode = "f079"
+
+[[solid]]
+name = "ribbon"
+unicode = "f4d6"
+
+[[solid]]
+name = "ring"
+unicode = "f70b"
+
+[[solid]]
+name = "road"
+unicode = "f018"
+
+[[solid]]
+name = "robot"
+unicode = "f544"
+
+[[solid]]
+name = "rocket"
+unicode = "f135"
+
+[[solid]]
+name = "route"
+unicode = "f4d7"
+
+[[solid]]
+name = "rss"
+unicode = "f09e"
+
+[[solid]]
+name = "rss-square"
+unicode = "f143"
+
+[[solid]]
+name = "ruble-sign"
+unicode = "f158"
+
+[[solid]]
+name = "ruler"
+unicode = "f545"
+
+[[solid]]
+name = "ruler-combined"
+unicode = "f546"
+
+[[solid]]
+name = "ruler-horizontal"
+unicode = "f547"
+
+[[solid]]
+name = "ruler-vertical"
+unicode = "f548"
+
+[[solid]]
+name = "running"
+unicode = "f70c"
+
+[[solid]]
+name = "rupee-sign"
+unicode = "f156"
+
+[[solid]]
+name = "sad-cry"
+unicode = "f5b3"
+
+[[solid]]
+name = "sad-tear"
+unicode = "f5b4"
+
+[[solid]]
+name = "satellite"
+unicode = "f7bf"
+
+[[solid]]
+name = "satellite-dish"
+unicode = "f7c0"
+
+[[solid]]
+name = "save"
+unicode = "f0c7"
+
+[[solid]]
+name = "school"
+unicode = "f549"
+
+[[solid]]
+name = "screwdriver"
+unicode = "f54a"
+
+[[solid]]
+name = "scroll"
+unicode = "f70e"
+
+[[solid]]
+name = "sd-card"
+unicode = "f7c2"
+
+[[solid]]
+name = "search"
+unicode = "f002"
+
+[[solid]]
+name = "search-dollar"
+unicode = "f688"
+
+[[solid]]
+name = "search-location"
+unicode = "f689"
+
+[[solid]]
+name = "search-minus"
+unicode = "f010"
+
+[[solid]]
+name = "search-plus"
+unicode = "f00e"
+
+[[solid]]
+name = "seedling"
+unicode = "f4d8"
+
+[[solid]]
+name = "server"
+unicode = "f233"
+
+[[solid]]
+name = "shapes"
+unicode = "f61f"
+
+[[solid]]
+name = "share"
+unicode = "f064"
+
+[[solid]]
+name = "share-alt"
+unicode = "f1e0"
+
+[[solid]]
+name = "share-alt-square"
+unicode = "f1e1"
+
+[[solid]]
+name = "share-square"
+unicode = "f14d"
+
+[[solid]]
+name = "shekel-sign"
+unicode = "f20b"
+
+[[solid]]
+name = "shield-alt"
+unicode = "f3ed"
+
+[[solid]]
+name = "shield-virus"
+unicode = "e06c"
+
+[[solid]]
+name = "ship"
+unicode = "f21a"
+
+[[solid]]
+name = "shipping-fast"
+unicode = "f48b"
+
+[[solid]]
+name = "shoe-prints"
+unicode = "f54b"
+
+[[solid]]
+name = "shopping-bag"
+unicode = "f290"
+
+[[solid]]
+name = "shopping-basket"
+unicode = "f291"
+
+[[solid]]
+name = "shopping-cart"
+unicode = "f07a"
+
+[[solid]]
+name = "shower"
+unicode = "f2cc"
+
+[[solid]]
+name = "shuttle-van"
+unicode = "f5b6"
+
+[[solid]]
+name = "sign"
+unicode = "f4d9"
+
+[[solid]]
+name = "sign-in-alt"
+unicode = "f2f6"
+
+[[solid]]
+name = "sign-language"
+unicode = "f2a7"
+
+[[solid]]
+name = "sign-out-alt"
+unicode = "f2f5"
+
+[[solid]]
+name = "signal"
+unicode = "f012"
+
+[[solid]]
+name = "signature"
+unicode = "f5b7"
+
+[[solid]]
+name = "sim-card"
+unicode = "f7c4"
+
+[[solid]]
+name = "sink"
+unicode = "e06d"
+
+[[solid]]
+name = "sitemap"
+unicode = "f0e8"
+
+[[solid]]
+name = "skating"
+unicode = "f7c5"
+
+[[solid]]
+name = "skiing"
+unicode = "f7c9"
+
+[[solid]]
+name = "skiing-nordic"
+unicode = "f7ca"
+
+[[solid]]
+name = "skull"
+unicode = "f54c"
+
+[[solid]]
+name = "skull-crossbones"
+unicode = "f714"
+
+[[solid]]
+name = "slash"
+unicode = "f715"
+
+[[solid]]
+name = "sleigh"
+unicode = "f7cc"
+
+[[solid]]
+name = "sliders-h"
+unicode = "f1de"
+
+[[solid]]
+name = "smile"
+unicode = "f118"
+
+[[solid]]
+name = "smile-beam"
+unicode = "f5b8"
+
+[[solid]]
+name = "smile-wink"
+unicode = "f4da"
+
+[[solid]]
+name = "smog"
+unicode = "f75f"
+
+[[solid]]
+name = "smoking"
+unicode = "f48d"
+
+[[solid]]
+name = "smoking-ban"
+unicode = "f54d"
+
+[[solid]]
+name = "sms"
+unicode = "f7cd"
+
+[[solid]]
+name = "snowboarding"
+unicode = "f7ce"
+
+[[solid]]
+name = "snowflake"
+unicode = "f2dc"
+
+[[solid]]
+name = "snowman"
+unicode = "f7d0"
+
+[[solid]]
+name = "snowplow"
+unicode = "f7d2"
+
+[[solid]]
+name = "soap"
+unicode = "e06e"
+
+[[solid]]
+name = "socks"
+unicode = "f696"
+
+[[solid]]
+name = "solar-panel"
+unicode = "f5ba"
+
+[[solid]]
+name = "sort"
+unicode = "f0dc"
+
+[[solid]]
+name = "sort-alpha-down"
+unicode = "f15d"
+
+[[solid]]
+name = "sort-alpha-down-alt"
+unicode = "f881"
+
+[[solid]]
+name = "sort-alpha-up"
+unicode = "f15e"
+
+[[solid]]
+name = "sort-alpha-up-alt"
+unicode = "f882"
+
+[[solid]]
+name = "sort-amount-down"
+unicode = "f160"
+
+[[solid]]
+name = "sort-amount-down-alt"
+unicode = "f884"
+
+[[solid]]
+name = "sort-amount-up"
+unicode = "f161"
+
+[[solid]]
+name = "sort-amount-up-alt"
+unicode = "f885"
+
+[[solid]]
+name = "sort-down"
+unicode = "f0dd"
+
+[[solid]]
+name = "sort-numeric-down"
+unicode = "f162"
+
+[[solid]]
+name = "sort-numeric-down-alt"
+unicode = "f886"
+
+[[solid]]
+name = "sort-numeric-up"
+unicode = "f163"
+
+[[solid]]
+name = "sort-numeric-up-alt"
+unicode = "f887"
+
+[[solid]]
+name = "sort-up"
+unicode = "f0de"
+
+[[solid]]
+name = "spa"
+unicode = "f5bb"
+
+[[solid]]
+name = "space-shuttle"
+unicode = "f197"
+
+[[solid]]
+name = "spell-check"
+unicode = "f891"
+
+[[solid]]
+name = "spider"
+unicode = "f717"
+
+[[solid]]
+name = "spinner"
+unicode = "f110"
+
+[[solid]]
+name = "splotch"
+unicode = "f5bc"
+
+[[solid]]
+name = "spray-can"
+unicode = "f5bd"
+
+[[solid]]
+name = "square"
+unicode = "f0c8"
+
+[[solid]]
+name = "square-full"
+unicode = "f45c"
+
+[[solid]]
+name = "square-root-alt"
+unicode = "f698"
+
+[[solid]]
+name = "stamp"
+unicode = "f5bf"
+
+[[solid]]
+name = "star"
+unicode = "f005"
+
+[[solid]]
+name = "star-and-crescent"
+unicode = "f699"
+
+[[solid]]
+name = "star-half"
+unicode = "f089"
+
+[[solid]]
+name = "star-half-alt"
+unicode = "f5c0"
+
+[[solid]]
+name = "star-of-david"
+unicode = "f69a"
+
+[[solid]]
+name = "star-of-life"
+unicode = "f621"
+
+[[solid]]
+name = "step-backward"
+unicode = "f048"
+
+[[solid]]
+name = "step-forward"
+unicode = "f051"
+
+[[solid]]
+name = "stethoscope"
+unicode = "f0f1"
+
+[[solid]]
+name = "sticky-note"
+unicode = "f249"
+
+[[solid]]
+name = "stop"
+unicode = "f04d"
+
+[[solid]]
+name = "stop-circle"
+unicode = "f28d"
+
+[[solid]]
+name = "stopwatch"
+unicode = "f2f2"
+
+[[solid]]
+name = "stopwatch-20"
+unicode = "e06f"
+
+[[solid]]
+name = "store"
+unicode = "f54e"
+
+[[solid]]
+name = "store-alt"
+unicode = "f54f"
+
+[[solid]]
+name = "store-alt-slash"
+unicode = "e070"
+
+[[solid]]
+name = "store-slash"
+unicode = "e071"
+
+[[solid]]
+name = "stream"
+unicode = "f550"
+
+[[solid]]
+name = "street-view"
+unicode = "f21d"
+
+[[solid]]
+name = "strikethrough"
+unicode = "f0cc"
+
+[[solid]]
+name = "stroopwafel"
+unicode = "f551"
+
+[[solid]]
+name = "subscript"
+unicode = "f12c"
+
+[[solid]]
+name = "subway"
+unicode = "f239"
+
+[[solid]]
+name = "suitcase"
+unicode = "f0f2"
+
+[[solid]]
+name = "suitcase-rolling"
+unicode = "f5c1"
+
+[[solid]]
+name = "sun"
+unicode = "f185"
+
+[[solid]]
+name = "superscript"
+unicode = "f12b"
+
+[[solid]]
+name = "surprise"
+unicode = "f5c2"
+
+[[solid]]
+name = "swatchbook"
+unicode = "f5c3"
+
+[[solid]]
+name = "swimmer"
+unicode = "f5c4"
+
+[[solid]]
+name = "swimming-pool"
+unicode = "f5c5"
+
+[[solid]]
+name = "synagogue"
+unicode = "f69b"
+
+[[solid]]
+name = "sync"
+unicode = "f021"
+
+[[solid]]
+name = "sync-alt"
+unicode = "f2f1"
+
+[[solid]]
+name = "syringe"
+unicode = "f48e"
+
+[[solid]]
+name = "table"
+unicode = "f0ce"
+
+[[solid]]
+name = "table-tennis"
+unicode = "f45d"
+
+[[solid]]
+name = "tablet"
+unicode = "f10a"
+
+[[solid]]
+name = "tablet-alt"
+unicode = "f3fa"
+
+[[solid]]
+name = "tablets"
+unicode = "f490"
+
+[[solid]]
+name = "tachometer-alt"
+unicode = "f3fd"
+
+[[solid]]
+name = "tag"
+unicode = "f02b"
+
+[[solid]]
+name = "tags"
+unicode = "f02c"
+
+[[solid]]
+name = "tape"
+unicode = "f4db"
+
+[[solid]]
+name = "tasks"
+unicode = "f0ae"
+
+[[solid]]
+name = "taxi"
+unicode = "f1ba"
+
+[[solid]]
+name = "teeth"
+unicode = "f62e"
+
+[[solid]]
+name = "teeth-open"
+unicode = "f62f"
+
+[[solid]]
+name = "temperature-high"
+unicode = "f769"
+
+[[solid]]
+name = "temperature-low"
+unicode = "f76b"
+
+[[solid]]
+name = "tenge"
+unicode = "f7d7"
+
+[[solid]]
+name = "terminal"
+unicode = "f120"
+
+[[solid]]
+name = "text-height"
+unicode = "f034"
+
+[[solid]]
+name = "text-width"
+unicode = "f035"
+
+[[solid]]
+name = "th"
+unicode = "f00a"
+
+[[solid]]
+name = "th-large"
+unicode = "f009"
+
+[[solid]]
+name = "th-list"
+unicode = "f00b"
+
+[[solid]]
+name = "theater-masks"
+unicode = "f630"
+
+[[solid]]
+name = "thermometer"
+unicode = "f491"
+
+[[solid]]
+name = "thermometer-empty"
+unicode = "f2cb"
+
+[[solid]]
+name = "thermometer-full"
+unicode = "f2c7"
+
+[[solid]]
+name = "thermometer-half"
+unicode = "f2c9"
+
+[[solid]]
+name = "thermometer-quarter"
+unicode = "f2ca"
+
+[[solid]]
+name = "thermometer-three-quarters"
+unicode = "f2c8"
+
+[[solid]]
+name = "thumbs-down"
+unicode = "f165"
+
+[[solid]]
+name = "thumbs-up"
+unicode = "f164"
+
+[[solid]]
+name = "thumbtack"
+unicode = "f08d"
+
+[[solid]]
+name = "ticket-alt"
+unicode = "f3ff"
+
+[[solid]]
+name = "times"
+unicode = "f00d"
+
+[[solid]]
+name = "times-circle"
+unicode = "f057"
+
+[[solid]]
+name = "tint"
+unicode = "f043"
+
+[[solid]]
+name = "tint-slash"
+unicode = "f5c7"
+
+[[solid]]
+name = "tired"
+unicode = "f5c8"
+
+[[solid]]
+name = "toggle-off"
+unicode = "f204"
+
+[[solid]]
+name = "toggle-on"
+unicode = "f205"
+
+[[solid]]
+name = "toilet"
+unicode = "f7d8"
+
+[[solid]]
+name = "toilet-paper"
+unicode = "f71e"
+
+[[solid]]
+name = "toilet-paper-slash"
+unicode = "e072"
+
+[[solid]]
+name = "toolbox"
+unicode = "f552"
+
+[[solid]]
+name = "tools"
+unicode = "f7d9"
+
+[[solid]]
+name = "tooth"
+unicode = "f5c9"
+
+[[solid]]
+name = "torah"
+unicode = "f6a0"
+
+[[solid]]
+name = "torii-gate"
+unicode = "f6a1"
+
+[[solid]]
+name = "tractor"
+unicode = "f722"
+
+[[solid]]
+name = "trademark"
+unicode = "f25c"
+
+[[solid]]
+name = "traffic-light"
+unicode = "f637"
+
+[[solid]]
+name = "trailer"
+unicode = "e041"
+
+[[solid]]
+name = "train"
+unicode = "f238"
+
+[[solid]]
+name = "tram"
+unicode = "f7da"
+
+[[solid]]
+name = "transgender"
+unicode = "f224"
+
+[[solid]]
+name = "transgender-alt"
+unicode = "f225"
+
+[[solid]]
+name = "trash"
+unicode = "f1f8"
+
+[[solid]]
+name = "trash-alt"
+unicode = "f2ed"
+
+[[solid]]
+name = "trash-restore"
+unicode = "f829"
+
+[[solid]]
+name = "trash-restore-alt"
+unicode = "f82a"
+
+[[solid]]
+name = "tree"
+unicode = "f1bb"
+
+[[solid]]
+name = "trophy"
+unicode = "f091"
+
+[[solid]]
+name = "truck"
+unicode = "f0d1"
+
+[[solid]]
+name = "truck-loading"
+unicode = "f4de"
+
+[[solid]]
+name = "truck-monster"
+unicode = "f63b"
+
+[[solid]]
+name = "truck-moving"
+unicode = "f4df"
+
+[[solid]]
+name = "truck-pickup"
+unicode = "f63c"
+
+[[solid]]
+name = "tshirt"
+unicode = "f553"
+
+[[solid]]
+name = "tty"
+unicode = "f1e4"
+
+[[solid]]
+name = "tv"
+unicode = "f26c"
+
+[[solid]]
+name = "umbrella"
+unicode = "f0e9"
+
+[[solid]]
+name = "umbrella-beach"
+unicode = "f5ca"
+
+[[solid]]
+name = "underline"
+unicode = "f0cd"
+
+[[solid]]
+name = "undo"
+unicode = "f0e2"
+
+[[solid]]
+name = "undo-alt"
+unicode = "f2ea"
+
+[[solid]]
+name = "universal-access"
+unicode = "f29a"
+
+[[solid]]
+name = "university"
+unicode = "f19c"
+
+[[solid]]
+name = "unlink"
+unicode = "f127"
+
+[[solid]]
+name = "unlock"
+unicode = "f09c"
+
+[[solid]]
+name = "unlock-alt"
+unicode = "f13e"
+
+[[solid]]
+name = "upload"
+unicode = "f093"
+
+[[solid]]
+name = "user"
+unicode = "f007"
+
+[[solid]]
+name = "user-alt"
+unicode = "f406"
+
+[[solid]]
+name = "user-alt-slash"
+unicode = "f4fa"
+
+[[solid]]
+name = "user-astronaut"
+unicode = "f4fb"
+
+[[solid]]
+name = "user-check"
+unicode = "f4fc"
+
+[[solid]]
+name = "user-circle"
+unicode = "f2bd"
+
+[[solid]]
+name = "user-clock"
+unicode = "f4fd"
+
+[[solid]]
+name = "user-cog"
+unicode = "f4fe"
+
+[[solid]]
+name = "user-edit"
+unicode = "f4ff"
+
+[[solid]]
+name = "user-friends"
+unicode = "f500"
+
+[[solid]]
+name = "user-graduate"
+unicode = "f501"
+
+[[solid]]
+name = "user-injured"
+unicode = "f728"
+
+[[solid]]
+name = "user-lock"
+unicode = "f502"
+
+[[solid]]
+name = "user-md"
+unicode = "f0f0"
+
+[[solid]]
+name = "user-minus"
+unicode = "f503"
+
+[[solid]]
+name = "user-ninja"
+unicode = "f504"
+
+[[solid]]
+name = "user-nurse"
+unicode = "f82f"
+
+[[solid]]
+name = "user-plus"
+unicode = "f234"
+
+[[solid]]
+name = "user-secret"
+unicode = "f21b"
+
+[[solid]]
+name = "user-shield"
+unicode = "f505"
+
+[[solid]]
+name = "user-slash"
+unicode = "f506"
+
+[[solid]]
+name = "user-tag"
+unicode = "f507"
+
+[[solid]]
+name = "user-tie"
+unicode = "f508"
+
+[[solid]]
+name = "user-times"
+unicode = "f235"
+
+[[solid]]
+name = "users"
+unicode = "f0c0"
+
+[[solid]]
+name = "users-cog"
+unicode = "f509"
+
+[[solid]]
+name = "users-slash"
+unicode = "e073"
+
+[[solid]]
+name = "utensil-spoon"
+unicode = "f2e5"
+
+[[solid]]
+name = "utensils"
+unicode = "f2e7"
+
+[[solid]]
+name = "vector-square"
+unicode = "f5cb"
+
+[[solid]]
+name = "venus"
+unicode = "f221"
+
+[[solid]]
+name = "venus-double"
+unicode = "f226"
+
+[[solid]]
+name = "venus-mars"
+unicode = "f228"
+
+[[solid]]
+name = "vial"
+unicode = "f492"
+
+[[solid]]
+name = "vials"
+unicode = "f493"
+
+[[solid]]
+name = "video"
+unicode = "f03d"
+
+[[solid]]
+name = "video-slash"
+unicode = "f4e2"
+
+[[solid]]
+name = "vihara"
+unicode = "f6a7"
+
+[[solid]]
+name = "virus"
+unicode = "e074"
+
+[[solid]]
+name = "virus-slash"
+unicode = "e075"
+
+[[solid]]
+name = "viruses"
+unicode = "e076"
+
+[[solid]]
+name = "voicemail"
+unicode = "f897"
+
+[[solid]]
+name = "volleyball-ball"
+unicode = "f45f"
+
+[[solid]]
+name = "volume-down"
+unicode = "f027"
+
+[[solid]]
+name = "volume-mute"
+unicode = "f6a9"
+
+[[solid]]
+name = "volume-off"
+unicode = "f026"
+
+[[solid]]
+name = "volume-up"
+unicode = "f028"
+
+[[solid]]
+name = "vote-yea"
+unicode = "f772"
+
+[[solid]]
+name = "vr-cardboard"
+unicode = "f729"
+
+[[solid]]
+name = "walking"
+unicode = "f554"
+
+[[solid]]
+name = "wallet"
+unicode = "f555"
+
+[[solid]]
+name = "warehouse"
+unicode = "f494"
+
+[[solid]]
+name = "water"
+unicode = "f773"
+
+[[solid]]
+name = "wave-square"
+unicode = "f83e"
+
+[[solid]]
+name = "weight"
+unicode = "f496"
+
+[[solid]]
+name = "weight-hanging"
+unicode = "f5cd"
+
+[[solid]]
+name = "wheelchair"
+unicode = "f193"
+
+[[solid]]
+name = "wifi"
+unicode = "f1eb"
+
+[[solid]]
+name = "wind"
+unicode = "f72e"
+
+[[solid]]
+name = "window-close"
+unicode = "f410"
+
+[[solid]]
+name = "window-maximize"
+unicode = "f2d0"
+
+[[solid]]
+name = "window-minimize"
+unicode = "f2d1"
+
+[[solid]]
+name = "window-restore"
+unicode = "f2d2"
+
+[[solid]]
+name = "wine-bottle"
+unicode = "f72f"
+
+[[solid]]
+name = "wine-glass"
+unicode = "f4e3"
+
+[[solid]]
+name = "wine-glass-alt"
+unicode = "f5ce"
+
+[[solid]]
+name = "won-sign"
+unicode = "f159"
+
+[[solid]]
+name = "wrench"
+unicode = "f0ad"
+
+[[solid]]
+name = "x-ray"
+unicode = "f497"
+
+[[solid]]
+name = "yen-sign"
+unicode = "f157"
+
+[[solid]]
+name = "yin-yang"
+unicode = "f6ad"
+
+[[regular]]
+name = "address-book"
+unicode = "f2b9"
+
+[[regular]]
+name = "address-card"
+unicode = "f2bb"
+
+[[regular]]
+name = "angry"
+unicode = "f556"
+
+[[regular]]
+name = "arrow-alt-circle-down"
+unicode = "f358"
+
+[[regular]]
+name = "arrow-alt-circle-left"
+unicode = "f359"
+
+[[regular]]
+name = "arrow-alt-circle-right"
+unicode = "f35a"
+
+[[regular]]
+name = "arrow-alt-circle-up"
+unicode = "f35b"
+
+[[regular]]
+name = "bell"
+unicode = "f0f3"
+
+[[regular]]
+name = "bell-slash"
+unicode = "f1f6"
+
+[[regular]]
+name = "bookmark"
+unicode = "f02e"
+
+[[regular]]
+name = "building"
+unicode = "f1ad"
+
+[[regular]]
+name = "calendar"
+unicode = "f133"
+
+[[regular]]
+name = "calendar-alt"
+unicode = "f073"
+
+[[regular]]
+name = "calendar-check"
+unicode = "f274"
+
+[[regular]]
+name = "calendar-minus"
+unicode = "f272"
+
+[[regular]]
+name = "calendar-plus"
+unicode = "f271"
+
+[[regular]]
+name = "calendar-times"
+unicode = "f273"
+
+[[regular]]
+name = "caret-square-down"
+unicode = "f150"
+
+[[regular]]
+name = "caret-square-left"
+unicode = "f191"
+
+[[regular]]
+name = "caret-square-right"
+unicode = "f152"
+
+[[regular]]
+name = "caret-square-up"
+unicode = "f151"
+
+[[regular]]
+name = "chart-bar"
+unicode = "f080"
+
+[[regular]]
+name = "check-circle"
+unicode = "f058"
+
+[[regular]]
+name = "check-square"
+unicode = "f14a"
+
+[[regular]]
+name = "circle"
+unicode = "f111"
+
+[[regular]]
+name = "clipboard"
+unicode = "f328"
+
+[[regular]]
+name = "clock"
+unicode = "f017"
+
+[[regular]]
+name = "clone"
+unicode = "f24d"
+
+[[regular]]
+name = "closed-captioning"
+unicode = "f20a"
+
+[[regular]]
+name = "comment"
+unicode = "f075"
+
+[[regular]]
+name = "comment-alt"
+unicode = "f27a"
+
+[[regular]]
+name = "comment-dots"
+unicode = "f4ad"
+
+[[regular]]
+name = "comments"
+unicode = "f086"
+
+[[regular]]
+name = "compass"
+unicode = "f14e"
+
+[[regular]]
+name = "copy"
+unicode = "f0c5"
+
+[[regular]]
+name = "copyright"
+unicode = "f1f9"
+
+[[regular]]
+name = "credit-card"
+unicode = "f09d"
+
+[[regular]]
+name = "dizzy"
+unicode = "f567"
+
+[[regular]]
+name = "dot-circle"
+unicode = "f192"
+
+[[regular]]
+name = "edit"
+unicode = "f044"
+
+[[regular]]
+name = "envelope"
+unicode = "f0e0"
+
+[[regular]]
+name = "envelope-open"
+unicode = "f2b6"
+
+[[regular]]
+name = "eye"
+unicode = "f06e"
+
+[[regular]]
+name = "eye-slash"
+unicode = "f070"
+
+[[regular]]
+name = "file"
+unicode = "f15b"
+
+[[regular]]
+name = "file-alt"
+unicode = "f15c"
+
+[[regular]]
+name = "file-archive"
+unicode = "f1c6"
+
+[[regular]]
+name = "file-audio"
+unicode = "f1c7"
+
+[[regular]]
+name = "file-code"
+unicode = "f1c9"
+
+[[regular]]
+name = "file-excel"
+unicode = "f1c3"
+
+[[regular]]
+name = "file-image"
+unicode = "f1c5"
+
+[[regular]]
+name = "file-pdf"
+unicode = "f1c1"
+
+[[regular]]
+name = "file-powerpoint"
+unicode = "f1c4"
+
+[[regular]]
+name = "file-video"
+unicode = "f1c8"
+
+[[regular]]
+name = "file-word"
+unicode = "f1c2"
+
+[[regular]]
+name = "flag"
+unicode = "f024"
+
+[[regular]]
+name = "flushed"
+unicode = "f579"
+
+[[regular]]
+name = "folder"
+unicode = "f07b"
+
+[[regular]]
+name = "folder-open"
+unicode = "f07c"
+
+[[regular]]
+name = "font-awesome-logo-full"
+unicode = "f4e6"
+
+[[regular]]
+name = "frown"
+unicode = "f119"
+
+[[regular]]
+name = "frown-open"
+unicode = "f57a"
+
+[[regular]]
+name = "futbol"
+unicode = "f1e3"
+
+[[regular]]
+name = "gem"
+unicode = "f3a5"
+
+[[regular]]
+name = "grimace"
+unicode = "f57f"
+
+[[regular]]
+name = "grin"
+unicode = "f580"
+
+[[regular]]
+name = "grin-alt"
+unicode = "f581"
+
+[[regular]]
+name = "grin-beam"
+unicode = "f582"
+
+[[regular]]
+name = "grin-beam-sweat"
+unicode = "f583"
+
+[[regular]]
+name = "grin-hearts"
+unicode = "f584"
+
+[[regular]]
+name = "grin-squint"
+unicode = "f585"
+
+[[regular]]
+name = "grin-squint-tears"
+unicode = "f586"
+
+[[regular]]
+name = "grin-stars"
+unicode = "f587"
+
+[[regular]]
+name = "grin-tears"
+unicode = "f588"
+
+[[regular]]
+name = "grin-tongue"
+unicode = "f589"
+
+[[regular]]
+name = "grin-tongue-squint"
+unicode = "f58a"
+
+[[regular]]
+name = "grin-tongue-wink"
+unicode = "f58b"
+
+[[regular]]
+name = "grin-wink"
+unicode = "f58c"
+
+[[regular]]
+name = "hand-lizard"
+unicode = "f258"
+
+[[regular]]
+name = "hand-paper"
+unicode = "f256"
+
+[[regular]]
+name = "hand-peace"
+unicode = "f25b"
+
+[[regular]]
+name = "hand-point-down"
+unicode = "f0a7"
+
+[[regular]]
+name = "hand-point-left"
+unicode = "f0a5"
+
+[[regular]]
+name = "hand-point-right"
+unicode = "f0a4"
+
+[[regular]]
+name = "hand-point-up"
+unicode = "f0a6"
+
+[[regular]]
+name = "hand-pointer"
+unicode = "f25a"
+
+[[regular]]
+name = "hand-rock"
+unicode = "f255"
+
+[[regular]]
+name = "hand-scissors"
+unicode = "f257"
+
+[[regular]]
+name = "hand-spock"
+unicode = "f259"
+
+[[regular]]
+name = "handshake"
+unicode = "f2b5"
+
+[[regular]]
+name = "hdd"
+unicode = "f0a0"
+
+[[regular]]
+name = "heart"
+unicode = "f004"
+
+[[regular]]
+name = "hospital"
+unicode = "f0f8"
+
+[[regular]]
+name = "hourglass"
+unicode = "f254"
+
+[[regular]]
+name = "id-badge"
+unicode = "f2c1"
+
+[[regular]]
+name = "id-card"
+unicode = "f2c2"
+
+[[regular]]
+name = "image"
+unicode = "f03e"
+
+[[regular]]
+name = "images"
+unicode = "f302"
+
+[[regular]]
+name = "keyboard"
+unicode = "f11c"
+
+[[regular]]
+name = "kiss"
+unicode = "f596"
+
+[[regular]]
+name = "kiss-beam"
+unicode = "f597"
+
+[[regular]]
+name = "kiss-wink-heart"
+unicode = "f598"
+
+[[regular]]
+name = "laugh"
+unicode = "f599"
+
+[[regular]]
+name = "laugh-beam"
+unicode = "f59a"
+
+[[regular]]
+name = "laugh-squint"
+unicode = "f59b"
+
+[[regular]]
+name = "laugh-wink"
+unicode = "f59c"
+
+[[regular]]
+name = "lemon"
+unicode = "f094"
+
+[[regular]]
+name = "life-ring"
+unicode = "f1cd"
+
+[[regular]]
+name = "lightbulb"
+unicode = "f0eb"
+
+[[regular]]
+name = "list-alt"
+unicode = "f022"
+
+[[regular]]
+name = "map"
+unicode = "f279"
+
+[[regular]]
+name = "meh"
+unicode = "f11a"
+
+[[regular]]
+name = "meh-blank"
+unicode = "f5a4"
+
+[[regular]]
+name = "meh-rolling-eyes"
+unicode = "f5a5"
+
+[[regular]]
+name = "minus-square"
+unicode = "f146"
+
+[[regular]]
+name = "money-bill-alt"
+unicode = "f3d1"
+
+[[regular]]
+name = "moon"
+unicode = "f186"
+
+[[regular]]
+name = "newspaper"
+unicode = "f1ea"
+
+[[regular]]
+name = "object-group"
+unicode = "f247"
+
+[[regular]]
+name = "object-ungroup"
+unicode = "f248"
+
+[[regular]]
+name = "paper-plane"
+unicode = "f1d8"
+
+[[regular]]
+name = "pause-circle"
+unicode = "f28b"
+
+[[regular]]
+name = "play-circle"
+unicode = "f144"
+
+[[regular]]
+name = "plus-square"
+unicode = "f0fe"
+
+[[regular]]
+name = "question-circle"
+unicode = "f059"
+
+[[regular]]
+name = "registered"
+unicode = "f25d"
+
+[[regular]]
+name = "sad-cry"
+unicode = "f5b3"
+
+[[regular]]
+name = "sad-tear"
+unicode = "f5b4"
+
+[[regular]]
+name = "save"
+unicode = "f0c7"
+
+[[regular]]
+name = "share-square"
+unicode = "f14d"
+
+[[regular]]
+name = "smile"
+unicode = "f118"
+
+[[regular]]
+name = "smile-beam"
+unicode = "f5b8"
+
+[[regular]]
+name = "smile-wink"
+unicode = "f4da"
+
+[[regular]]
+name = "snowflake"
+unicode = "f2dc"
+
+[[regular]]
+name = "square"
+unicode = "f0c8"
+
+[[regular]]
+name = "star"
+unicode = "f005"
+
+[[regular]]
+name = "star-half"
+unicode = "f089"
+
+[[regular]]
+name = "sticky-note"
+unicode = "f249"
+
+[[regular]]
+name = "stop-circle"
+unicode = "f28d"
+
+[[regular]]
+name = "sun"
+unicode = "f185"
+
+[[regular]]
+name = "surprise"
+unicode = "f5c2"
+
+[[regular]]
+name = "thumbs-down"
+unicode = "f165"
+
+[[regular]]
+name = "thumbs-up"
+unicode = "f164"
+
+[[regular]]
+name = "times-circle"
+unicode = "f057"
+
+[[regular]]
+name = "tired"
+unicode = "f5c8"
+
+[[regular]]
+name = "trash-alt"
+unicode = "f2ed"
+
+[[regular]]
+name = "user"
+unicode = "f007"
+
+[[regular]]
+name = "user-circle"
+unicode = "f2bd"
+
+[[regular]]
+name = "window-close"
+unicode = "f410"
+
+[[regular]]
+name = "window-maximize"
+unicode = "f2d0"
+
+[[regular]]
+name = "window-minimize"
+unicode = "f2d1"
+
+[[regular]]
+name = "window-restore"
+unicode = "f2d2"
+
+[[brands]]
+name = "500px"
+unicode = "f26e"
+
+[[brands]]
+name = "accessible-icon"
+unicode = "f368"
+
+[[brands]]
+name = "accusoft"
+unicode = "f369"
+
+[[brands]]
+name = "acquisitions-incorporated"
+unicode = "f6af"
+
+[[brands]]
+name = "adn"
+unicode = "f170"
+
+[[brands]]
+name = "adobe"
+unicode = "f778"
+
+[[brands]]
+name = "adversal"
+unicode = "f36a"
+
+[[brands]]
+name = "affiliatetheme"
+unicode = "f36b"
+
+[[brands]]
+name = "airbnb"
+unicode = "f834"
+
+[[brands]]
+name = "algolia"
+unicode = "f36c"
+
+[[brands]]
+name = "alipay"
+unicode = "f642"
+
+[[brands]]
+name = "amazon"
+unicode = "f270"
+
+[[brands]]
+name = "amazon-pay"
+unicode = "f42c"
+
+[[brands]]
+name = "amilia"
+unicode = "f36d"
+
+[[brands]]
+name = "android"
+unicode = "f17b"
+
+[[brands]]
+name = "angellist"
+unicode = "f209"
+
+[[brands]]
+name = "angrycreative"
+unicode = "f36e"
+
+[[brands]]
+name = "angular"
+unicode = "f420"
+
+[[brands]]
+name = "app-store"
+unicode = "f36f"
+
+[[brands]]
+name = "app-store-ios"
+unicode = "f370"
+
+[[brands]]
+name = "apper"
+unicode = "f371"
+
+[[brands]]
+name = "apple"
+unicode = "f179"
+
+[[brands]]
+name = "apple-pay"
+unicode = "f415"
+
+[[brands]]
+name = "artstation"
+unicode = "f77a"
+
+[[brands]]
+name = "asymmetrik"
+unicode = "f372"
+
+[[brands]]
+name = "atlassian"
+unicode = "f77b"
+
+[[brands]]
+name = "audible"
+unicode = "f373"
+
+[[brands]]
+name = "autoprefixer"
+unicode = "f41c"
+
+[[brands]]
+name = "avianex"
+unicode = "f374"
+
+[[brands]]
+name = "aviato"
+unicode = "f421"
+
+[[brands]]
+name = "aws"
+unicode = "f375"
+
+[[brands]]
+name = "bandcamp"
+unicode = "f2d5"
+
+[[brands]]
+name = "battle-net"
+unicode = "f835"
+
+[[brands]]
+name = "behance"
+unicode = "f1b4"
+
+[[brands]]
+name = "behance-square"
+unicode = "f1b5"
+
+[[brands]]
+name = "bimobject"
+unicode = "f378"
+
+[[brands]]
+name = "bitbucket"
+unicode = "f171"
+
+[[brands]]
+name = "bitcoin"
+unicode = "f379"
+
+[[brands]]
+name = "bity"
+unicode = "f37a"
+
+[[brands]]
+name = "black-tie"
+unicode = "f27e"
+
+[[brands]]
+name = "blackberry"
+unicode = "f37b"
+
+[[brands]]
+name = "blogger"
+unicode = "f37c"
+
+[[brands]]
+name = "blogger-b"
+unicode = "f37d"
+
+[[brands]]
+name = "bluetooth"
+unicode = "f293"
+
+[[brands]]
+name = "bluetooth-b"
+unicode = "f294"
+
+[[brands]]
+name = "bootstrap"
+unicode = "f836"
+
+[[brands]]
+name = "btc"
+unicode = "f15a"
+
+[[brands]]
+name = "buffer"
+unicode = "f837"
+
+[[brands]]
+name = "buromobelexperte"
+unicode = "f37f"
+
+[[brands]]
+name = "buy-n-large"
+unicode = "f8a6"
+
+[[brands]]
+name = "buysellads"
+unicode = "f20d"
+
+[[brands]]
+name = "canadian-maple-leaf"
+unicode = "f785"
+
+[[brands]]
+name = "cc-amazon-pay"
+unicode = "f42d"
+
+[[brands]]
+name = "cc-amex"
+unicode = "f1f3"
+
+[[brands]]
+name = "cc-apple-pay"
+unicode = "f416"
+
+[[brands]]
+name = "cc-diners-club"
+unicode = "f24c"
+
+[[brands]]
+name = "cc-discover"
+unicode = "f1f2"
+
+[[brands]]
+name = "cc-jcb"
+unicode = "f24b"
+
+[[brands]]
+name = "cc-mastercard"
+unicode = "f1f1"
+
+[[brands]]
+name = "cc-paypal"
+unicode = "f1f4"
+
+[[brands]]
+name = "cc-stripe"
+unicode = "f1f5"
+
+[[brands]]
+name = "cc-visa"
+unicode = "f1f0"
+
+[[brands]]
+name = "centercode"
+unicode = "f380"
+
+[[brands]]
+name = "centos"
+unicode = "f789"
+
+[[brands]]
+name = "chrome"
+unicode = "f268"
+
+[[brands]]
+name = "chromecast"
+unicode = "f838"
+
+[[brands]]
+name = "cloudscale"
+unicode = "f383"
+
+[[brands]]
+name = "cloudsmith"
+unicode = "f384"
+
+[[brands]]
+name = "cloudversify"
+unicode = "f385"
+
+[[brands]]
+name = "codepen"
+unicode = "f1cb"
+
+[[brands]]
+name = "codiepie"
+unicode = "f284"
+
+[[brands]]
+name = "confluence"
+unicode = "f78d"
+
+[[brands]]
+name = "connectdevelop"
+unicode = "f20e"
+
+[[brands]]
+name = "contao"
+unicode = "f26d"
+
+[[brands]]
+name = "cotton-bureau"
+unicode = "f89e"
+
+[[brands]]
+name = "cpanel"
+unicode = "f388"
+
+[[brands]]
+name = "creative-commons"
+unicode = "f25e"
+
+[[brands]]
+name = "creative-commons-by"
+unicode = "f4e7"
+
+[[brands]]
+name = "creative-commons-nc"
+unicode = "f4e8"
+
+[[brands]]
+name = "creative-commons-nc-eu"
+unicode = "f4e9"
+
+[[brands]]
+name = "creative-commons-nc-jp"
+unicode = "f4ea"
+
+[[brands]]
+name = "creative-commons-nd"
+unicode = "f4eb"
+
+[[brands]]
+name = "creative-commons-pd"
+unicode = "f4ec"
+
+[[brands]]
+name = "creative-commons-pd-alt"
+unicode = "f4ed"
+
+[[brands]]
+name = "creative-commons-remix"
+unicode = "f4ee"
+
+[[brands]]
+name = "creative-commons-sa"
+unicode = "f4ef"
+
+[[brands]]
+name = "creative-commons-sampling"
+unicode = "f4f0"
+
+[[brands]]
+name = "creative-commons-sampling-plus"
+unicode = "f4f1"
+
+[[brands]]
+name = "creative-commons-share"
+unicode = "f4f2"
+
+[[brands]]
+name = "creative-commons-zero"
+unicode = "f4f3"
+
+[[brands]]
+name = "critical-role"
+unicode = "f6c9"
+
+[[brands]]
+name = "css3"
+unicode = "f13c"
+
+[[brands]]
+name = "css3-alt"
+unicode = "f38b"
+
+[[brands]]
+name = "cuttlefish"
+unicode = "f38c"
+
+[[brands]]
+name = "d-and-d"
+unicode = "f38d"
+
+[[brands]]
+name = "d-and-d-beyond"
+unicode = "f6ca"
+
+[[brands]]
+name = "dailymotion"
+unicode = "e052"
+
+[[brands]]
+name = "dashcube"
+unicode = "f210"
+
+[[brands]]
+name = "deezer"
+unicode = "e077"
+
+[[brands]]
+name = "delicious"
+unicode = "f1a5"
+
+[[brands]]
+name = "deploydog"
+unicode = "f38e"
+
+[[brands]]
+name = "deskpro"
+unicode = "f38f"
+
+[[brands]]
+name = "dev"
+unicode = "f6cc"
+
+[[brands]]
+name = "deviantart"
+unicode = "f1bd"
+
+[[brands]]
+name = "dhl"
+unicode = "f790"
+
+[[brands]]
+name = "diaspora"
+unicode = "f791"
+
+[[brands]]
+name = "digg"
+unicode = "f1a6"
+
+[[brands]]
+name = "digital-ocean"
+unicode = "f391"
+
+[[brands]]
+name = "discord"
+unicode = "f392"
+
+[[brands]]
+name = "discourse"
+unicode = "f393"
+
+[[brands]]
+name = "dochub"
+unicode = "f394"
+
+[[brands]]
+name = "docker"
+unicode = "f395"
+
+[[brands]]
+name = "draft2digital"
+unicode = "f396"
+
+[[brands]]
+name = "dribbble"
+unicode = "f17d"
+
+[[brands]]
+name = "dribbble-square"
+unicode = "f397"
+
+[[brands]]
+name = "dropbox"
+unicode = "f16b"
+
+[[brands]]
+name = "drupal"
+unicode = "f1a9"
+
+[[brands]]
+name = "dyalog"
+unicode = "f399"
+
+[[brands]]
+name = "earlybirds"
+unicode = "f39a"
+
+[[brands]]
+name = "ebay"
+unicode = "f4f4"
+
+[[brands]]
+name = "edge"
+unicode = "f282"
+
+[[brands]]
+name = "edge-legacy"
+unicode = "e078"
+
+[[brands]]
+name = "elementor"
+unicode = "f430"
+
+[[brands]]
+name = "ello"
+unicode = "f5f1"
+
+[[brands]]
+name = "ember"
+unicode = "f423"
+
+[[brands]]
+name = "empire"
+unicode = "f1d1"
+
+[[brands]]
+name = "envira"
+unicode = "f299"
+
+[[brands]]
+name = "erlang"
+unicode = "f39d"
+
+[[brands]]
+name = "ethereum"
+unicode = "f42e"
+
+[[brands]]
+name = "etsy"
+unicode = "f2d7"
+
+[[brands]]
+name = "evernote"
+unicode = "f839"
+
+[[brands]]
+name = "expeditedssl"
+unicode = "f23e"
+
+[[brands]]
+name = "facebook"
+unicode = "f09a"
+
+[[brands]]
+name = "facebook-f"
+unicode = "f39e"
+
+[[brands]]
+name = "facebook-messenger"
+unicode = "f39f"
+
+[[brands]]
+name = "facebook-square"
+unicode = "f082"
+
+[[brands]]
+name = "fantasy-flight-games"
+unicode = "f6dc"
+
+[[brands]]
+name = "fedex"
+unicode = "f797"
+
+[[brands]]
+name = "fedora"
+unicode = "f798"
+
+[[brands]]
+name = "figma"
+unicode = "f799"
+
+[[brands]]
+name = "firefox"
+unicode = "f269"
+
+[[brands]]
+name = "firefox-browser"
+unicode = "e007"
+
+[[brands]]
+name = "first-order"
+unicode = "f2b0"
+
+[[brands]]
+name = "first-order-alt"
+unicode = "f50a"
+
+[[brands]]
+name = "firstdraft"
+unicode = "f3a1"
+
+[[brands]]
+name = "flickr"
+unicode = "f16e"
+
+[[brands]]
+name = "flipboard"
+unicode = "f44d"
+
+[[brands]]
+name = "fly"
+unicode = "f417"
+
+[[brands]]
+name = "font-awesome"
+unicode = "f2b4"
+
+[[brands]]
+name = "font-awesome-alt"
+unicode = "f35c"
+
+[[brands]]
+name = "font-awesome-flag"
+unicode = "f425"
+
+[[brands]]
+name = "font-awesome-logo-full"
+unicode = "f4e6"
+
+[[brands]]
+name = "fonticons"
+unicode = "f280"
+
+[[brands]]
+name = "fonticons-fi"
+unicode = "f3a2"
+
+[[brands]]
+name = "fort-awesome"
+unicode = "f286"
+
+[[brands]]
+name = "fort-awesome-alt"
+unicode = "f3a3"
+
+[[brands]]
+name = "forumbee"
+unicode = "f211"
+
+[[brands]]
+name = "foursquare"
+unicode = "f180"
+
+[[brands]]
+name = "free-code-camp"
+unicode = "f2c5"
+
+[[brands]]
+name = "freebsd"
+unicode = "f3a4"
+
+[[brands]]
+name = "fulcrum"
+unicode = "f50b"
+
+[[brands]]
+name = "galactic-republic"
+unicode = "f50c"
+
+[[brands]]
+name = "galactic-senate"
+unicode = "f50d"
+
+[[brands]]
+name = "get-pocket"
+unicode = "f265"
+
+[[brands]]
+name = "gg"
+unicode = "f260"
+
+[[brands]]
+name = "gg-circle"
+unicode = "f261"
+
+[[brands]]
+name = "git"
+unicode = "f1d3"
+
+[[brands]]
+name = "git-alt"
+unicode = "f841"
+
+[[brands]]
+name = "git-square"
+unicode = "f1d2"
+
+[[brands]]
+name = "github"
+unicode = "f09b"
+
+[[brands]]
+name = "github-alt"
+unicode = "f113"
+
+[[brands]]
+name = "github-square"
+unicode = "f092"
+
+[[brands]]
+name = "gitkraken"
+unicode = "f3a6"
+
+[[brands]]
+name = "gitlab"
+unicode = "f296"
+
+[[brands]]
+name = "gitter"
+unicode = "f426"
+
+[[brands]]
+name = "glide"
+unicode = "f2a5"
+
+[[brands]]
+name = "glide-g"
+unicode = "f2a6"
+
+[[brands]]
+name = "gofore"
+unicode = "f3a7"
+
+[[brands]]
+name = "goodreads"
+unicode = "f3a8"
+
+[[brands]]
+name = "goodreads-g"
+unicode = "f3a9"
+
+[[brands]]
+name = "google"
+unicode = "f1a0"
+
+[[brands]]
+name = "google-drive"
+unicode = "f3aa"
+
+[[brands]]
+name = "google-pay"
+unicode = "e079"
+
+[[brands]]
+name = "google-play"
+unicode = "f3ab"
+
+[[brands]]
+name = "google-plus"
+unicode = "f2b3"
+
+[[brands]]
+name = "google-plus-g"
+unicode = "f0d5"
+
+[[brands]]
+name = "google-plus-square"
+unicode = "f0d4"
+
+[[brands]]
+name = "google-wallet"
+unicode = "f1ee"
+
+[[brands]]
+name = "gratipay"
+unicode = "f184"
+
+[[brands]]
+name = "grav"
+unicode = "f2d6"
+
+[[brands]]
+name = "gripfire"
+unicode = "f3ac"
+
+[[brands]]
+name = "grunt"
+unicode = "f3ad"
+
+[[brands]]
+name = "gulp"
+unicode = "f3ae"
+
+[[brands]]
+name = "hacker-news"
+unicode = "f1d4"
+
+[[brands]]
+name = "hacker-news-square"
+unicode = "f3af"
+
+[[brands]]
+name = "hackerrank"
+unicode = "f5f7"
+
+[[brands]]
+name = "hips"
+unicode = "f452"
+
+[[brands]]
+name = "hire-a-helper"
+unicode = "f3b0"
+
+[[brands]]
+name = "hooli"
+unicode = "f427"
+
+[[brands]]
+name = "hornbill"
+unicode = "f592"
+
+[[brands]]
+name = "hotjar"
+unicode = "f3b1"
+
+[[brands]]
+name = "houzz"
+unicode = "f27c"
+
+[[brands]]
+name = "html5"
+unicode = "f13b"
+
+[[brands]]
+name = "hubspot"
+unicode = "f3b2"
+
+[[brands]]
+name = "ideal"
+unicode = "e013"
+
+[[brands]]
+name = "imdb"
+unicode = "f2d8"
+
+[[brands]]
+name = "instagram"
+unicode = "f16d"
+
+[[brands]]
+name = "instagram-square"
+unicode = "e055"
+
+[[brands]]
+name = "intercom"
+unicode = "f7af"
+
+[[brands]]
+name = "internet-explorer"
+unicode = "f26b"
+
+[[brands]]
+name = "invision"
+unicode = "f7b0"
+
+[[brands]]
+name = "ioxhost"
+unicode = "f208"
+
+[[brands]]
+name = "itch-io"
+unicode = "f83a"
+
+[[brands]]
+name = "itunes"
+unicode = "f3b4"
+
+[[brands]]
+name = "itunes-note"
+unicode = "f3b5"
+
+[[brands]]
+name = "java"
+unicode = "f4e4"
+
+[[brands]]
+name = "jedi-order"
+unicode = "f50e"
+
+[[brands]]
+name = "jenkins"
+unicode = "f3b6"
+
+[[brands]]
+name = "jira"
+unicode = "f7b1"
+
+[[brands]]
+name = "joget"
+unicode = "f3b7"
+
+[[brands]]
+name = "joomla"
+unicode = "f1aa"
+
+[[brands]]
+name = "js"
+unicode = "f3b8"
+
+[[brands]]
+name = "js-square"
+unicode = "f3b9"
+
+[[brands]]
+name = "jsfiddle"
+unicode = "f1cc"
+
+[[brands]]
+name = "kaggle"
+unicode = "f5fa"
+
+[[brands]]
+name = "keybase"
+unicode = "f4f5"
+
+[[brands]]
+name = "keycdn"
+unicode = "f3ba"
+
+[[brands]]
+name = "kickstarter"
+unicode = "f3bb"
+
+[[brands]]
+name = "kickstarter-k"
+unicode = "f3bc"
+
+[[brands]]
+name = "korvue"
+unicode = "f42f"
+
+[[brands]]
+name = "laravel"
+unicode = "f3bd"
+
+[[brands]]
+name = "lastfm"
+unicode = "f202"
+
+[[brands]]
+name = "lastfm-square"
+unicode = "f203"
+
+[[brands]]
+name = "leanpub"
+unicode = "f212"
+
+[[brands]]
+name = "less"
+unicode = "f41d"
+
+[[brands]]
+name = "line"
+unicode = "f3c0"
+
+[[brands]]
+name = "linkedin"
+unicode = "f08c"
+
+[[brands]]
+name = "linkedin-in"
+unicode = "f0e1"
+
+[[brands]]
+name = "linode"
+unicode = "f2b8"
+
+[[brands]]
+name = "linux"
+unicode = "f17c"
+
+[[brands]]
+name = "lyft"
+unicode = "f3c3"
+
+[[brands]]
+name = "magento"
+unicode = "f3c4"
+
+[[brands]]
+name = "mailchimp"
+unicode = "f59e"
+
+[[brands]]
+name = "mandalorian"
+unicode = "f50f"
+
+[[brands]]
+name = "markdown"
+unicode = "f60f"
+
+[[brands]]
+name = "mastodon"
+unicode = "f4f6"
+
+[[brands]]
+name = "maxcdn"
+unicode = "f136"
+
+[[brands]]
+name = "mdb"
+unicode = "f8ca"
+
+[[brands]]
+name = "medapps"
+unicode = "f3c6"
+
+[[brands]]
+name = "medium"
+unicode = "f23a"
+
+[[brands]]
+name = "medium-m"
+unicode = "f3c7"
+
+[[brands]]
+name = "medrt"
+unicode = "f3c8"
+
+[[brands]]
+name = "meetup"
+unicode = "f2e0"
+
+[[brands]]
+name = "megaport"
+unicode = "f5a3"
+
+[[brands]]
+name = "mendeley"
+unicode = "f7b3"
+
+[[brands]]
+name = "microblog"
+unicode = "e01a"
+
+[[brands]]
+name = "microsoft"
+unicode = "f3ca"
+
+[[brands]]
+name = "mix"
+unicode = "f3cb"
+
+[[brands]]
+name = "mixcloud"
+unicode = "f289"
+
+[[brands]]
+name = "mixer"
+unicode = "e056"
+
+[[brands]]
+name = "mizuni"
+unicode = "f3cc"
+
+[[brands]]
+name = "modx"
+unicode = "f285"
+
+[[brands]]
+name = "monero"
+unicode = "f3d0"
+
+[[brands]]
+name = "napster"
+unicode = "f3d2"
+
+[[brands]]
+name = "neos"
+unicode = "f612"
+
+[[brands]]
+name = "nimblr"
+unicode = "f5a8"
+
+[[brands]]
+name = "node"
+unicode = "f419"
+
+[[brands]]
+name = "node-js"
+unicode = "f3d3"
+
+[[brands]]
+name = "npm"
+unicode = "f3d4"
+
+[[brands]]
+name = "ns8"
+unicode = "f3d5"
+
+[[brands]]
+name = "nutritionix"
+unicode = "f3d6"
+
+[[brands]]
+name = "odnoklassniki"
+unicode = "f263"
+
+[[brands]]
+name = "odnoklassniki-square"
+unicode = "f264"
+
+[[brands]]
+name = "old-republic"
+unicode = "f510"
+
+[[brands]]
+name = "opencart"
+unicode = "f23d"
+
+[[brands]]
+name = "openid"
+unicode = "f19b"
+
+[[brands]]
+name = "opera"
+unicode = "f26a"
+
+[[brands]]
+name = "optin-monster"
+unicode = "f23c"
+
+[[brands]]
+name = "orcid"
+unicode = "f8d2"
+
+[[brands]]
+name = "osi"
+unicode = "f41a"
+
+[[brands]]
+name = "page4"
+unicode = "f3d7"
+
+[[brands]]
+name = "pagelines"
+unicode = "f18c"
+
+[[brands]]
+name = "palfed"
+unicode = "f3d8"
+
+[[brands]]
+name = "patreon"
+unicode = "f3d9"
+
+[[brands]]
+name = "paypal"
+unicode = "f1ed"
+
+[[brands]]
+name = "penny-arcade"
+unicode = "f704"
+
+[[brands]]
+name = "periscope"
+unicode = "f3da"
+
+[[brands]]
+name = "phabricator"
+unicode = "f3db"
+
+[[brands]]
+name = "phoenix-framework"
+unicode = "f3dc"
+
+[[brands]]
+name = "phoenix-squadron"
+unicode = "f511"
+
+[[brands]]
+name = "php"
+unicode = "f457"
+
+[[brands]]
+name = "pied-piper"
+unicode = "f2ae"
+
+[[brands]]
+name = "pied-piper-alt"
+unicode = "f1a8"
+
+[[brands]]
+name = "pied-piper-hat"
+unicode = "f4e5"
+
+[[brands]]
+name = "pied-piper-pp"
+unicode = "f1a7"
+
+[[brands]]
+name = "pied-piper-square"
+unicode = "e01e"
+
+[[brands]]
+name = "pinterest"
+unicode = "f0d2"
+
+[[brands]]
+name = "pinterest-p"
+unicode = "f231"
+
+[[brands]]
+name = "pinterest-square"
+unicode = "f0d3"
+
+[[brands]]
+name = "playstation"
+unicode = "f3df"
+
+[[brands]]
+name = "product-hunt"
+unicode = "f288"
+
+[[brands]]
+name = "pushed"
+unicode = "f3e1"
+
+[[brands]]
+name = "python"
+unicode = "f3e2"
+
+[[brands]]
+name = "qq"
+unicode = "f1d6"
+
+[[brands]]
+name = "quinscape"
+unicode = "f459"
+
+[[brands]]
+name = "quora"
+unicode = "f2c4"
+
+[[brands]]
+name = "r-project"
+unicode = "f4f7"
+
+[[brands]]
+name = "raspberry-pi"
+unicode = "f7bb"
+
+[[brands]]
+name = "ravelry"
+unicode = "f2d9"
+
+[[brands]]
+name = "react"
+unicode = "f41b"
+
+[[brands]]
+name = "reacteurope"
+unicode = "f75d"
+
+[[brands]]
+name = "readme"
+unicode = "f4d5"
+
+[[brands]]
+name = "rebel"
+unicode = "f1d0"
+
+[[brands]]
+name = "red-river"
+unicode = "f3e3"
+
+[[brands]]
+name = "reddit"
+unicode = "f1a1"
+
+[[brands]]
+name = "reddit-alien"
+unicode = "f281"
+
+[[brands]]
+name = "reddit-square"
+unicode = "f1a2"
+
+[[brands]]
+name = "redhat"
+unicode = "f7bc"
+
+[[brands]]
+name = "renren"
+unicode = "f18b"
+
+[[brands]]
+name = "replyd"
+unicode = "f3e6"
+
+[[brands]]
+name = "researchgate"
+unicode = "f4f8"
+
+[[brands]]
+name = "resolving"
+unicode = "f3e7"
+
+[[brands]]
+name = "rev"
+unicode = "f5b2"
+
+[[brands]]
+name = "rocketchat"
+unicode = "f3e8"
+
+[[brands]]
+name = "rockrms"
+unicode = "f3e9"
+
+[[brands]]
+name = "rust"
+unicode = "e07a"
+
+[[brands]]
+name = "safari"
+unicode = "f267"
+
+[[brands]]
+name = "salesforce"
+unicode = "f83b"
+
+[[brands]]
+name = "sass"
+unicode = "f41e"
+
+[[brands]]
+name = "schlix"
+unicode = "f3ea"
+
+[[brands]]
+name = "scribd"
+unicode = "f28a"
+
+[[brands]]
+name = "searchengin"
+unicode = "f3eb"
+
+[[brands]]
+name = "sellcast"
+unicode = "f2da"
+
+[[brands]]
+name = "sellsy"
+unicode = "f213"
+
+[[brands]]
+name = "servicestack"
+unicode = "f3ec"
+
+[[brands]]
+name = "shirtsinbulk"
+unicode = "f214"
+
+[[brands]]
+name = "shopify"
+unicode = "e057"
+
+[[brands]]
+name = "shopware"
+unicode = "f5b5"
+
+[[brands]]
+name = "simplybuilt"
+unicode = "f215"
+
+[[brands]]
+name = "sistrix"
+unicode = "f3ee"
+
+[[brands]]
+name = "sith"
+unicode = "f512"
+
+[[brands]]
+name = "sketch"
+unicode = "f7c6"
+
+[[brands]]
+name = "skyatlas"
+unicode = "f216"
+
+[[brands]]
+name = "skype"
+unicode = "f17e"
+
+[[brands]]
+name = "slack"
+unicode = "f198"
+
+[[brands]]
+name = "slack-hash"
+unicode = "f3ef"
+
+[[brands]]
+name = "slideshare"
+unicode = "f1e7"
+
+[[brands]]
+name = "snapchat"
+unicode = "f2ab"
+
+[[brands]]
+name = "snapchat-ghost"
+unicode = "f2ac"
+
+[[brands]]
+name = "snapchat-square"
+unicode = "f2ad"
+
+[[brands]]
+name = "soundcloud"
+unicode = "f1be"
+
+[[brands]]
+name = "sourcetree"
+unicode = "f7d3"
+
+[[brands]]
+name = "speakap"
+unicode = "f3f3"
+
+[[brands]]
+name = "speaker-deck"
+unicode = "f83c"
+
+[[brands]]
+name = "spotify"
+unicode = "f1bc"
+
+[[brands]]
+name = "squarespace"
+unicode = "f5be"
+
+[[brands]]
+name = "stack-exchange"
+unicode = "f18d"
+
+[[brands]]
+name = "stack-overflow"
+unicode = "f16c"
+
+[[brands]]
+name = "stackpath"
+unicode = "f842"
+
+[[brands]]
+name = "staylinked"
+unicode = "f3f5"
+
+[[brands]]
+name = "steam"
+unicode = "f1b6"
+
+[[brands]]
+name = "steam-square"
+unicode = "f1b7"
+
+[[brands]]
+name = "steam-symbol"
+unicode = "f3f6"
+
+[[brands]]
+name = "sticker-mule"
+unicode = "f3f7"
+
+[[brands]]
+name = "strava"
+unicode = "f428"
+
+[[brands]]
+name = "stripe"
+unicode = "f429"
+
+[[brands]]
+name = "stripe-s"
+unicode = "f42a"
+
+[[brands]]
+name = "studiovinari"
+unicode = "f3f8"
+
+[[brands]]
+name = "stumbleupon"
+unicode = "f1a4"
+
+[[brands]]
+name = "stumbleupon-circle"
+unicode = "f1a3"
+
+[[brands]]
+name = "superpowers"
+unicode = "f2dd"
+
+[[brands]]
+name = "supple"
+unicode = "f3f9"
+
+[[brands]]
+name = "suse"
+unicode = "f7d6"
+
+[[brands]]
+name = "swift"
+unicode = "f8e1"
+
+[[brands]]
+name = "symfony"
+unicode = "f83d"
+
+[[brands]]
+name = "teamspeak"
+unicode = "f4f9"
+
+[[brands]]
+name = "telegram"
+unicode = "f2c6"
+
+[[brands]]
+name = "telegram-plane"
+unicode = "f3fe"
+
+[[brands]]
+name = "tencent-weibo"
+unicode = "f1d5"
+
+[[brands]]
+name = "the-red-yeti"
+unicode = "f69d"
+
+[[brands]]
+name = "themeco"
+unicode = "f5c6"
+
+[[brands]]
+name = "themeisle"
+unicode = "f2b2"
+
+[[brands]]
+name = "think-peaks"
+unicode = "f731"
+
+[[brands]]
+name = "tiktok"
+unicode = "e07b"
+
+[[brands]]
+name = "trade-federation"
+unicode = "f513"
+
+[[brands]]
+name = "trello"
+unicode = "f181"
+
+[[brands]]
+name = "tripadvisor"
+unicode = "f262"
+
+[[brands]]
+name = "tumblr"
+unicode = "f173"
+
+[[brands]]
+name = "tumblr-square"
+unicode = "f174"
+
+[[brands]]
+name = "twitch"
+unicode = "f1e8"
+
+[[brands]]
+name = "twitter"
+unicode = "f099"
+
+[[brands]]
+name = "twitter-square"
+unicode = "f081"
+
+[[brands]]
+name = "typo3"
+unicode = "f42b"
+
+[[brands]]
+name = "uber"
+unicode = "f402"
+
+[[brands]]
+name = "ubuntu"
+unicode = "f7df"
+
+[[brands]]
+name = "uikit"
+unicode = "f403"
+
+[[brands]]
+name = "umbraco"
+unicode = "f8e8"
+
+[[brands]]
+name = "uniregistry"
+unicode = "f404"
+
+[[brands]]
+name = "unity"
+unicode = "e049"
+
+[[brands]]
+name = "unsplash"
+unicode = "e07c"
+
+[[brands]]
+name = "untappd"
+unicode = "f405"
+
+[[brands]]
+name = "ups"
+unicode = "f7e0"
+
+[[brands]]
+name = "usb"
+unicode = "f287"
+
+[[brands]]
+name = "usps"
+unicode = "f7e1"
+
+[[brands]]
+name = "ussunnah"
+unicode = "f407"
+
+[[brands]]
+name = "vaadin"
+unicode = "f408"
+
+[[brands]]
+name = "viacoin"
+unicode = "f237"
+
+[[brands]]
+name = "viadeo"
+unicode = "f2a9"
+
+[[brands]]
+name = "viadeo-square"
+unicode = "f2aa"
+
+[[brands]]
+name = "viber"
+unicode = "f409"
+
+[[brands]]
+name = "vimeo"
+unicode = "f40a"
+
+[[brands]]
+name = "vimeo-square"
+unicode = "f194"
+
+[[brands]]
+name = "vimeo-v"
+unicode = "f27d"
+
+[[brands]]
+name = "vine"
+unicode = "f1ca"
+
+[[brands]]
+name = "vk"
+unicode = "f189"
+
+[[brands]]
+name = "vnv"
+unicode = "f40b"
+
+[[brands]]
+name = "vuejs"
+unicode = "f41f"
+
+[[brands]]
+name = "waze"
+unicode = "f83f"
+
+[[brands]]
+name = "weebly"
+unicode = "f5cc"
+
+[[brands]]
+name = "weibo"
+unicode = "f18a"
+
+[[brands]]
+name = "weixin"
+unicode = "f1d7"
+
+[[brands]]
+name = "whatsapp"
+unicode = "f232"
+
+[[brands]]
+name = "whatsapp-square"
+unicode = "f40c"
+
+[[brands]]
+name = "whmcs"
+unicode = "f40d"
+
+[[brands]]
+name = "wikipedia-w"
+unicode = "f266"
+
+[[brands]]
+name = "windows"
+unicode = "f17a"
+
+[[brands]]
+name = "wix"
+unicode = "f5cf"
+
+[[brands]]
+name = "wizards-of-the-coast"
+unicode = "f730"
+
+[[brands]]
+name = "wolf-pack-battalion"
+unicode = "f514"
+
+[[brands]]
+name = "wordpress"
+unicode = "f19a"
+
+[[brands]]
+name = "wordpress-simple"
+unicode = "f411"
+
+[[brands]]
+name = "wpbeginner"
+unicode = "f297"
+
+[[brands]]
+name = "wpexplorer"
+unicode = "f2de"
+
+[[brands]]
+name = "wpforms"
+unicode = "f298"
+
+[[brands]]
+name = "wpressr"
+unicode = "f3e4"
+
+[[brands]]
+name = "xbox"
+unicode = "f412"
+
+[[brands]]
+name = "xing"
+unicode = "f168"
+
+[[brands]]
+name = "xing-square"
+unicode = "f169"
+
+[[brands]]
+name = "y-combinator"
+unicode = "f23b"
+
+[[brands]]
+name = "yahoo"
+unicode = "f19e"
+
+[[brands]]
+name = "yammer"
+unicode = "f840"
+
+[[brands]]
+name = "yandex"
+unicode = "f413"
+
+[[brands]]
+name = "yandex-international"
+unicode = "f414"
+
+[[brands]]
+name = "yarn"
+unicode = "f7e3"
+
+[[brands]]
+name = "yelp"
+unicode = "f1e9"
+
+[[brands]]
+name = "yoast"
+unicode = "f2b1"
+
+[[brands]]
+name = "youtube"
+unicode = "f167"
+
+[[brands]]
+name = "youtube-square"
+unicode = "f431"
+
+[[brands]]
+name = "zhihu"
+unicode = "f63f"
